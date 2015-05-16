@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: large;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>All of compile-time constants by ISO C are defined in the file <limits.h>.</p>
+<p> </p>
+<div class="page" title="Page 72">
+<table style=" border-collapse: collapse;">
+<col style=" width: 26.324524%;" />
+<col style=" width: 18.211888%;" />
+<col style=" width: 18.211930%;" />
+<col style=" width: 18.211930%;" />
+<col style=" width: 19.039728%;" />
+<tr>
+<td style=" border-style: solid; border-top-width: 0.319981pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319762pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">Limit</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 0.319981pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319762pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">FreeBSD 8.0</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 0.319981pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319762pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">Linux 3.2.0</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 0.319981pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319762pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">Mac OS X 10.6.8</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 0.319981pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319762pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">Solaris 10</span></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style=" border-style: solid; border-top-width: 2.319762pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319942pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<pre>
+<span style=" font-size: 8.000000pt; font-family: Courier;">FOPEN_MAX
+TMP_MAX
+FILENAME_MAX</span>
+</pre>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 2.319762pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319942pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">20 308,915,776 1024</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 2.319762pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319942pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">16 238,328 4096</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 2.319762pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319942pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">20 308,915,776 1024</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 2.319762pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319942pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319942pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319942pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">20 17,576 1024</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p> </p>
+</body>
+</html>

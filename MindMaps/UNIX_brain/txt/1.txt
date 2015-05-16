@@ -1,0 +1,1091 @@
+ 
+ 
+ 
+ 
+ POSIX - Wikipedia, the free encyclopedia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */ 
+
+  
+ if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"POSIX","wgTitle":"POSIX","wgCurRevisionId":601873236,"wgRevisionId":601873236,"wgArticleId":23305,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with inconsistent citation formats","Use dmy dates from October 2012","All pages needing factual verification","Wikipedia articles needing factual verification from March 2014","All articles with unsourced statements","Articles with unsourced statements from October 2010","Articles containing potentially dated statements from 2009","All articles containing potentially dated statements","Articles with unsourced statements from January 2014","Articles with unsourced statements from June 2013","Articles to be expanded from January 2007","All articles to be expanded","Articles with unsourced statements from March 2011","Articles with unsourced statements from January 2012","ISO standards","IEC standards","IEEE standards","Application programming interfaces","POSIX"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"POSIX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.23wmf20/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgULSAcceptLanguageList":["ru-ru","ru","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q14658"});
+}  if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":
+false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,
+"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f91b7921db835befbf3c85fee027f8c0 */
+} 
+ if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","skins.vector.compactPersonalBar.defaultTracking","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} 
+   body{behavior:url("/w/static-1.23wmf20/skins/vector/csshover.min.htc")}   
+ 
+		  
+		  
+		 
+			  
+			  
+						   
+						  POSIX  
+						 
+								 From Wikipedia, the free encyclopedia 
+								  
+												 
+					Jump to:					 navigation , 					 search 
+				 
+				  Not to be confused with  Unix ,  Unix-like , or  Linux . 
+ 
+    
+ 
+     
+Chronological hierarchy of relationships of various UNIX API standards that ultimately gave rise to  SUSv4 . Solid lines indicate direct descent, whereas dashed lines indicate a case where either 1) one standard influenced another 2) one standard was incorporated into another, or 3) one standard deferred to another. 
+ 
+ 
+  POSIX  (   /     ˈ      p      ɒ      z      ɪ      k      s     /           POZ    -iks   ), an acronym for " P ortable  O perating  S ystem  I nterface",   [ 1 ]    is a family of  standards  specified by the  IEEE  for maintaining compatibility between  operating systems . POSIX defines the  application programming interface  (API), along with command line  shells  and utility interfaces, for software compatibility with variants of  Unix  and other operating systems.   [ 2 ]      [ 3 ]    
+  
+ 
+ 
+ Contents 
+ 
+ 
+   1   Name   
+   2   Overview   
+   3   Versions  
+ 
+   3.1   Parts before 1997  
+ 
+   3.1.1   POSIX.1   
+   3.1.2   POSIX.1b   
+   3.1.3   POSIX.1c   
+   3.1.4   POSIX.2   
+ 
+ 
+   3.2   Versions after 1997  
+ 
+   3.2.1   POSIX.1-2001   
+   3.2.2   POSIX.1-2001 (with two TCs)   
+   3.2.3   POSIX.1-2008   
+ 
+ 
+ 
+ 
+   4   Controversies  
+ 
+   4.1   512- vs 1024-byte blocks   
+ 
+ 
+   5   POSIX-oriented operating systems  
+ 
+   5.1   Fully POSIX-compliant   
+   5.2   Mostly POSIX-compliant  
+ 
+   5.2.1   POSIX for Windows   
+   5.2.2   POSIX for OS/2   
+   5.2.3   POSIX for DOS   
+   5.2.4   Compliant via compatibility feature   
+ 
+ 
+ 
+ 
+   6   See also   
+   7   References   
+   8   External links   
+ 
+ 
+  
+  Name   [  edit  ]   
+ Originally, the name "POSIX" referred to IEEE Std 1003.1-1988, released in 1988. The family of POSIX standards is formally designated as  IEEE 1003  and the international standard name is  ISO / IEC  9945. 
+ The standards emerged from a project that began circa 1985.  Richard Stallman  suggested the name  POSIX  to the IEEE instead of former  IEEE-IX . The committee found it more easily pronounceable and memorable, so the committee adopted it.   [ 2 ]      [ 4 ]    [   better-source-needed   ]  
+  Overview   [  edit  ]   
+ The POSIX specifications for  Unix -like  operating system  environments originally consisted of a single document for the core programming interface, but eventually grew to 19 separate documents (for example, POSIX.1, POSIX.2 etc.)  [1] . The standardized user  command line  and  scripting interface  were based on the  Korn shell  [   citation needed   ] . Many user-level programs, services, and utilities including  awk ,  echo ,  ed  were also standardized, along with required program-level services including basic  I/O  ( file ,  terminal , and  network ) services. POSIX also defines a standard  threading  library API which is supported by most modern operating systems. Nowadays, most of POSIX parts are combined into a single standard,  IEEE Std 1003.1-2008 , also known as  POSIX.1-2008 . 
+ As of 2009  [update]  , POSIX documentation is divided in two parts: 
+ 
+ POSIX.1-2008: POSIX Base Definitions, System Interfaces, and Commands and Utilities (which include POSIX.1, extensions for POSIX.1, Real-time Services, Threads Interface, Real-time Extensions, Security Interface, Network File Access and Network Process-to-Process Communications, User Portability Extensions, Corrections and Extensions, Protection and Control Utilities and Batch System Utilities) 
+ POSIX Conformance Testing: A test suite for POSIX accompanies the standard:  PCTS  or the  POSIX Conformance Test Suite .   [ 5 ]    
+ 
+ The development of the POSIX standard takes place in the  Austin Group , a joint  working group  linking the Open Group and the ISO organization. 
+  Versions   [  edit  ]   
+  Parts before 1997   [  edit  ]   
+ Before 1997, POSIX comprised several standards: 
+  POSIX.1   [  edit  ]   
+ 
+ POSIX.1, Core Services (incorporates Standard  ANSI C ) (IEEE Std 1003.1-1988)
+ 
+  Process  Creation and Control 
+  Signals  
+  Floating Point Exceptions  
+  Segmentation / Memory Violations  
+  Illegal Instructions  
+  Bus Errors  
+  Timers  
+ File and Directory Operations 
+  Pipes  
+  C Library (Standard C)  
+  I/O  Port Interface and Control 
+  Process Triggers  
+ 
+ 
+ 
+  POSIX.1b   [  edit  ]   
+ 
+ POSIX.1b, Real-time extensions (IEEE Std 1003.1b-1993)
+ 
+ Priority  Scheduling  
+  Real-Time Signals  
+ Clocks and Timers 
+  Semaphores  
+  Message Passing  
+  Shared Memory  
+  Asynch  and Synch I/O 
+ Memory Locking Interface 
+ 
+ 
+ 
+  POSIX.1c   [  edit  ]   
+ 
+ POSIX.1c,  Threads extensions  (IEEE Std 1003.1c-1995)
+ 
+ Thread Creation, Control, and Cleanup 
+ Thread Scheduling 
+ Thread Synchronization 
+ Signal Handling 
+ 
+ 
+ 
+  POSIX.2   [  edit  ]   
+ 
+ POSIX.2, Shell and Utilities (IEEE Std 1003.2-1992)
+ 
+  Command Interpreter  
+ Utility Programs 
+ 
+ 
+ 
+  Versions after 1997   [  edit  ]   
+ After 1997, the  Austin Group  developed the POSIX revisions. The specifications are known under the name  Single UNIX Specification , before they become a POSIX standard when formally approved by the ISO. 
+  POSIX.1-2001   [  edit  ]   
+  POSIX.1-2001  or IEEE Std 1003.1-2001 equates to the  Single UNIX Specification version 3    [ 6 ]    
+ This standard consisted of: 
+ 
+ the Base Definitions, Issue 6, 
+ the System Interfaces and Headers, Issue 6, 
+ the Commands and Utilities, Issue 6. 
+ 
+  POSIX.1-2001 (with two TCs)   [  edit  ]   
+ IEEE Std 1003.1-2004 involved a minor update of POSIX.1-2001. It incorporated two technical  corrigenda .   [ 7 ]    Its contents are available on the web.   [ 8 ]    
+  POSIX.1-2008   [  edit  ]   
+ As of 2009  [update]    POSIX.1-2008  or IEEE Std 1003.1-2008 represents the current version.   [ 9 ]      [ 10 ]    A free online copy is available.   [ 11 ]    
+ This standard consists of: 
+ 
+ the Base Definitions, Issue 7, 
+ the System Interfaces and Headers, Issue 7, 
+ the Commands and Utilities, Issue 7. 
+ 
+  Controversies   [  edit  ]   
+  512- vs 1024-byte blocks   [  edit  ]   
+ POSIX mandates 512-byte block sizes for the  df  and  du  utilities, reflecting the default size of blocks on disks. When  Richard Stallman  and the  GNU  team were implementing POSIX for the  GNU operating system , they objected to this on the grounds that most people think in terms of 1024 byte (or 1  KiB ) blocks. The environment variable  POSIXLY_CORRECT  was introduced to allow the user to force the standards-compliant behaviour.   [ 12 ]    The variable name  POSIX_ME_HARDER  was also discussed.   [ 13 ]    
+  POSIX-oriented operating systems   [  edit  ]   
+ Depending upon the degree of compliance with the standards, one can classify operating systems as fully or partly POSIX compatible. Certified products can be found at the IEEE's website.   [ 14 ]    
+  Fully POSIX-compliant   [  edit  ]   
+ Some versions of the following operating systems conform (i.e., are 100% compliant) to one or more of the various POSIX standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+  A/UX  [   citation needed   ]  
+  AIX    [ 15 ]    
+  BSD/OS  [   citation needed   ]  
+  DSPnano  [   citation needed   ]  
+ 
+ 
+ 
+ 
+ 
+ 
+  HP-UX    [ 16 ]    
+  INTEGRITY    [ 16 ]    
+  IRIX    [ 17 ]    
+  LynxOS  [   citation needed   ]  
+ 
+ 
+ 
+ 
+ 
+ 
+  MPE/iX  [   citation needed   ]  
+  OS X Mavericks    [ 18 ]    
+  QNX    [ 19 ]    
+  RTEMS  (POSIX 1003.13-2003 Profile 52) [   citation needed   ]  
+ 
+ 
+ 
+ 
+ 
+ 
+  Solaris    [ 20 ]    
+  Tru64    [ 16 ]    
+  Unison RTOS  [   citation needed   ]  
+  UnixWare    [ 21 ]    
+ 
+ 
+ 
+ 
+ 
+ 
+  Mostly POSIX-compliant   [  edit  ]   
+ 
+ 
+     
+  This section requires  expansion .   (January 2007)    
+ 
+ 
+ The following, while not officially certified as POSIX compatible, comply in large part: 
+ 
+  BeOS  (and subsequently  Haiku ) 
+  FreeBSD    [ 22 ]    
+  Contiki  
+  Darwin  (core of  OS X  and  iOS ) 
+  illumos  
+  Linux  (most distributions — see  Linux Standard Base ) 
+  MINIX  (now  MINIX3 ) 
+  NetBSD  
+  Nucleus RTOS  
+  OpenBSD  
+  OpenSolaris  
+  PikeOS  RTOS for embedded systems with optional PSE51 and PSE52 partitions; see  partition (mainframe)  
+  RTEMS  – POSIX API support designed to IEEE Std. 1003.13-2003 PSE52 
+  Sanos  
+  SkyOS  
+  Syllable  
+  VSTa  
+  VxWorks    [ 19 ]    ( VxWorks is often used as a shell around non-posix Kernels i.e. TiMOS/SROS ) 
+ 
+  POSIX for Windows   [  edit  ]   
+ 
+  Cygwin  provides a largely POSIX-compliant development and run-time environment for  Microsoft Windows .
+ 
+  MinGW , formerly a  fork  of Cygwin, provides a less POSIX-compliant development environment and supports compatible  C -programmed applications via  Msvcrt , Microsoft's old Visual C runtime library. 
+ 
+ 
+  Microsoft POSIX subsystem , an optional Windows subsystem included in Windows NT-based operating systems up to Windows 2000. POSIX-1 as it stood in 1990 revision — no threads, no sockets. 
+  Interix , originally OpenNT by Softway Systems, Inc., is an upgrade and replacement for  Microsoft POSIX subsystem  that was purchased by  Microsoft  in 1999. It was initially marketed as a stand-alone add-on product and then later included it as a component in  Windows Services for UNIX  (SFU) and finally incorporated it as a component in  Windows Server 2003 R2  and later Windows OS releases under the name "Subsystem for UNIX-based Applications" (SUA); later made deprecated in 2012 (Windows 8)   [ 23 ]    and dropped in 2013 (2012 R2, 8.1). It enables full POSIX compliance for certain  Microsoft Windows  products [   citation needed   ] . 
+  UWIN  from AT&T Research implements a POSIX layer on top of the Win32 APIs. 
+  MKS Toolkit , originally created for MS-DOS, is a software package produced and maintained by  MKS Inc.  that provides a  Unix-like  environment for scripting, connectivity and porting  Unix  and  Linux  software to both 32- and 64-bit  Microsoft Windows  systems. A subset of it was included in the first release of  Windows Services for UNIX  (SFU) in 1998.   [ 24 ]    
+ 
+  POSIX for OS/2   [  edit  ]   
+ Mostly POSIX compliant environments for  OS/2 : 
+ 
+  emx+gcc  – largely POSIX compliant 
+ 
+  POSIX for DOS   [  edit  ]   
+ Partially POSIX compliant environments for  DOS  include: 
+ 
+  emx+gcc  – largely POSIX compliant 
+  DJGPP  – partially POSIX compliant 
+ 
+  Compliant via compatibility feature   [  edit  ]   
+ The following are not officially certified as POSIX compatible, but they conform in large part to the standards by implementing POSIX support via some sort of compatibility feature, usually translation libraries, or a layer atop the kernel. Without these features, they are usually noncompliant. 
+ 
+  eCos -– POSIX is part of standard distribution, and used by many applications. 'external links' section below has more information. 
+  MorphOS  (through the built-in ixemul library) 
+  OpenVMS  (through optional POSIX package) 
+  OpenVOS  is an optional POSIX-compliant layer atop the  Stratus VOS  kernel   [ 25 ]    
+  Plan 9 from Bell Labs  APE - ANSI/POSIX Environment   [ 26 ]    
+  Symbian OS  with  PIPS  (PIPS Is POSIX on Symbian) 
+  Windows NT kernel  when using Microsoft  SFU  3.5 or SUA
+ 
+  Windows 2000 Server or Professional with Service Pack 3 or later . To be POSIX compliant, one must activate optional features of Windows NT and Windows 2000 Server.   [ 27 ]    
+  Windows XP Professional with Service Pack 1 or later  
+  Windows Server 2003  
+  Windows Vista  (Ultimate / Enterprise) 
+  Windows 7  (Ultimate / Enterprise) 
+ 
+ 
+  z/OS  (is certified as compliant) 
+ 
+  See also   [  edit  ]   
+ 
+  POSIX signal  
+  POSIX Threads  
+ POSIX sockets are basically  Berkeley sockets  [   citation needed   ]  
+  TRON project  and  Common User Access -– alternative OS standards to POSIX 
+  Interix -– a full-featured POSIX and Unix environment subsystem for Microsoft's Windows NT-based operating systems 
+  C POSIX library  
+  Real-time operating system  
+ 
+  References   [  edit  ]   
+ 
+ 
+    ^       "POSIX.1 FAQ" . The Open Group. October 5, 2011.   -    
+  ^     a         b         "POSIX 1003.1 FAQ Version 1.12" . 2 February 2006 . Retrieved 16 July 2006 .   -    
+    ^       "POSIX" .  Standards . IEEE.   -    
+    ^       "The origin of the name POSIX." . 2011 . Retrieved 28 September 2013 .   -    
+    ^       "POSIX" . NIST.   -    
+    ^       "The Open Group announces completion of the joint revision to POSIX and the Single UNIX Specification"  (Press release). The Open Group. 30 January 2002 . Retrieved 26 July 2009 .   -    
+    ^       "IEEE Std 1003.1"  (2004 ed.). Unix.org . Retrieved 26 July 2009    -    
+    ^        IEEE Std 1003.1   (2004 ed.). The Open Group   -  .  
+    ^       "Base Specifications, Issue 7" . The Open Group . Retrieved 27 July 2009 .   -    
+    ^       "The Austin Common Standards Revision Group" . The Open Group . Retrieved 27 July 2009 .   -    
+    ^        POSIX.1-2008  . The Open Group   -  .  
+    ^        Announce   (Google Groups replica). GNU   -  .  
+    ^        Freedom, Innovation, and Convenience: The RMS Interview  . Linuxdevcenter. 22 December 2004   -  .  
+    ^       "POSIX Certification" . IEEE.   -    
+    ^       "IBM" . The Open Group . Retrieved 26 January 2014 .   -    
+  ^     a         b         c         "Hewlett-Packard" . The Open Group . Retrieved 26 January 2014 .   -    
+    ^       "Silicon Graphics, Inc." . The Open Group . Retrieved 26 January 2014 .   -    
+    ^       "Register of Certified Products" .  Register of Open Branded Products . The Open Group . Retrieved 24 February 2014 .   -    
+  ^     a         b         "IEEE Std. 1003.13-2003 PSE52" .  POSIX Certified . IEEE   -  .  
+    ^       "Oracle Corporation" . The Open Group . Retrieved 26 January 2014 .   -    
+    ^       "UnixWare ® 7.1.3 and later" . The Open Group. 16 May 2003.   -    
+    ^      Schweik.  "POSIX utilities" . FreeBSD.   -    
+    ^      Features Removed or Deprecated in Windows Server 2012   
+    ^      Windows NT Services for UNIX Add-On Pack  for NT 4; see also the  November '98 press release  for MKS toolkit 6.1, also  archived elsewhere   
+    ^       "OpenVOS: Stratus Virtual Operating System" . Stratus Technologies . Retrieved 18 October 2010 .   -    
+    ^       "APE — ANSI/POSIX Environment" .  Plan 9 . Bell Labs.   -    
+    ^       "POSIX Compatibility" .  MS Windows NT Workstation Resource Kit . Microsoft.   -    
+ 
+ 
+  External links   [  edit  ]   
+ 
+    The Austin Group  . The Open Group   -  . 
+   "The Portable Application Standards Committee"    -   
+    POSIX Certification Authority  . IEEE   -  . 
+    The UNIX System   (home page). The Open Group   -   
+   "Base Specifications" .  POSIX.1-2008  (7). The Open Group   -   
+    What could have been IEEE 1003.1e/2c  . Tuxomania   -   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   v   
+   t   
+   e   
+ 
+ 
+ Standards by  The Open Group  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  ARM  
+  CDE  
+  CLI  
+  CMPI  
+  DCE  
+  DRDA  
+  LDAP  
+  Motif  
+  SUS  ( POSIX ) 
+  X11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   v   
+   t   
+   e   
+ 
+ 
+  ISO  standards   by standard number   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ List of  ISO standards -/  ISO romanizations -/  IEC standards  
+ 
+ 
+ 
+  
+ 
+ 
+ 1–9999 
+ 
+ 
+ 
+  1  
+  2  
+  3  
+  4  
+  5  
+  6  
+  7  
+  9  
+  16  
+  31 
+ 
+  -0  
+  -1  
+  -2  
+  -3  
+  -4  
+  -5  
+  -6  
+  -7  
+  -8  
+  -9  
+  -10  
+  -11  
+  -12  
+  -13  
+ 
+ 
+  128  
+  216  
+  217  
+  226  
+  228  
+  233  
+  259  
+  269  
+  302  
+  306  
+  428  
+  518  
+  519  
+  639 
+ 
+  -1  
+  -2  
+  -3  
+  -5  
+  -6  
+ 
+ 
+  646  
+  690  
+  732  
+  764  
+  843  
+  898  
+  965  
+  1000  
+  1004  
+  1007  
+  1073-1  
+  1413  
+  1538  
+  1745  
+  2014  
+  2015  
+  2022  
+  2108  
+  2145  
+  2146  
+  2240  
+  2281  
+  2709  
+  2711  
+  2788  
+  2852  
+  3029  
+  3103  
+  3166 
+ 
+  -1  
+  -2  
+  -3  
+ 
+ 
+  3297  
+  3307  
+  3602  
+  3864  
+  3901  
+  3977  
+  4031  
+  4157  
+  4217  
+  4909  
+  5218  
+  5775  
+  5776  
+  5800  
+  5964  
+  6166  
+  6344  
+  6346  
+  6385  
+  6425  
+  6429  
+  6438  
+  6523  
+  6709  
+  7001  
+  7002  
+  7098  
+  7185  
+  7200  
+  7498  
+  7736  
+  7810  
+  7811  
+  7812  
+  7813  
+  7816  
+  8000  
+  8178  
+  8217  
+  8571  
+  8583  
+  8601  
+  8632  
+  8652  
+  8691  
+  8807  
+  8820-5  
+  8859 
+ 
+  -1  
+  -2  
+  -3  
+  -4  
+  -5  
+  -6  
+  -7  
+  -8  
+  -8-I  
+  -9  
+  -10  
+  -11  
+  -12  
+  -13  
+  -14  
+  -15  
+  -16  
+ 
+ 
+  8879  
+  9000/9001  
+  9075  
+  9126  
+  9293  
+  9241  
+  9362  
+  9407  
+  9506  
+  9529  
+  9564  
+  9594  
+  9660  
+  9897  
+  9945  
+  9984  
+  9985  
+  9995  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 10000–19999 
+ 
+ 
+ 
+  10006  
+  10116  
+  10118-3  
+  10160  
+  10161  
+  10165  
+  10179  
+  10206  
+  10218  
+  10303 
+ 
+  -11  
+  -21  
+  -22  
+  -28  
+  -238  
+ 
+ 
+  10383  
+  10487  
+  10585  
+  10589  
+  10646  
+  10664  
+  10746  
+  10861  
+  10957  
+  10962  
+  10967  
+  11073  
+  11170  
+  11179  
+  11404  
+  11544  
+  11783  
+  11784  
+  11785  
+  11801  
+  11898  
+  11940  ( -2 ) 
+  11941  
+  11941 (TR)  
+  11992  
+  12006  
+  12182  
+  12207  
+  12234-2  
+  13211 
+ 
+  -1  
+  -2  
+ 
+ 
+  13216  
+  13250  
+  13399  
+  13406-2  
+  13407  
+  13450  
+  13485  
+  13490  
+  13567  
+  13568  
+  13584  
+  13616  
+  14000  
+  14031  
+  14224  
+  14396  
+  14443  
+  14496 
+ 
+  -2  
+  -3  
+  -6  
+  -10  
+  -11  
+  -12  
+  -14  
+  -17  
+  -20  
+ 
+ 
+  14644 
+ 
+  -1  
+  -2  
+  -3  
+  -4  
+  -5  
+  -6  
+  -7  
+  -8  
+  -9  
+ 
+ 
+  14649  
+  14651  
+  14698 
+ 
+  -2  
+ 
+ 
+  14750  
+  14882  
+  14971  
+  15022  
+  15189  
+  15288  
+  15291  
+  15292  
+  15408  
+  15444  
+  15445  
+  15438  
+  15504  
+  15511  
+  15686  
+  15693  
+  15706 
+ 
+  -2  
+ 
+ 
+  15707  
+  15897  
+  15919  
+  15924  
+  15926  
+  15926 WIP  
+  15930  
+  16023  
+  16262  
+  16750  
+  17024  
+  17025  
+  17369  
+  17799  
+  18000  
+  18004  
+  18014  
+  18245  
+  18629  
+  18916  
+  19005  
+  19011  
+  19092 (-1  
+  -2)  
+  19114  
+  19115  
+  19125  
+  19136  
+  19439  
+  19501:2005  
+  19752  
+  19757  
+  19770  
+  19775-1  
+  19794-5  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 20000+ 
+ 
+ 
+ 
+  20000  
+  20022  
+  20121  
+  21000  
+  21047  
+  21500  
+  21827:2002  
+  22000  
+  23270  
+  23271  
+  23360  
+  24613  
+  24617  
+  24707  
+  25178  
+  25964  
+  26000  
+  26300  
+  26324  
+  27000 series  
+  27000  
+  27001:2005  
+  27001:2013  
+  27002  
+  27003  
+  27004  
+  27005  
+  27006  
+  27007  
+  27729  
+  27799  
+  28000  
+  29110  
+  29199-2  
+  29500  
+  31000  
+  32000  
+  38500  
+  42010  
+  80000 
+ 
+  -1  
+  -2  
+  -3  
+  -4  
+  -5  
+  -6  
+  -7  
+  -8  
+  -9  
+  -10  
+  -11  
+  -12  
+  -13  
+  -14  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   Categories 
+ 
+ 
+ 
+  ISO standards 
+ 
+  ISO 639  
+  ISO 3166  
+ 
+ 
+  ISO-/ IEC standards  
+  OSI protocols  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  All articles with prefix "ISO"  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+    								 
+				Retrieved from " http://en.wikipedia.org/w/index.php?title=POSIX&oldid=601873236 "				 
+												   Categories :    ISO standards    IEC standards    IEEE standards    Application programming interfaces    POSIX     Hidden categories:    Articles with inconsistent citation formats    Use dmy dates from October 2012    All pages needing factual verification    Wikipedia articles needing factual verification from March 2014    All articles with unsourced statements    Articles with unsourced statements from October 2010    Articles containing potentially dated statements from 2009    All articles containing potentially dated statements    Articles with unsourced statements from January 2014    Articles with unsourced statements from June 2013    Articles to be expanded from January 2007    All articles to be expanded    Articles with unsourced statements from March 2011    Articles with unsourced statements from January 2012     												  
+							 
+		 
+		 
+			 Navigation menu 
+			 
+				 
+	 Personal tools 
+	 
+  Create account    Log in  	 
+ 
+				 
+					 
+	 Namespaces 
+	 
+					   Article   
+					   Talk   
+			 
+ 
+ 
+	 
+		 
+	  Variants    
+	 
+		 
+					 
+	 
+ 
+				 
+				 
+					 
+	 Views 
+	 
+					   Read   
+					   Edit   
+					   View history   
+			 
+ 
+ 
+	  Actions    
+	 
+		 
+					 
+	 
+ 
+ 
+	  Search  
+	 
+					 
+					    		 
+	 
+ 
+				 
+			 
+			 
+					    
+				 
+	 Navigation 
+	 
+		 
+			  Main page  
+			  Contents  
+			  Featured content  
+			  Current events  
+			  Random article  
+			  Donate to Wikipedia  
+			  Wikimedia Shop  
+		 
+	 
+ 
+ 
+	 Interaction 
+	 
+		 
+			  Help  
+			  About Wikipedia  
+			  Community portal  
+			  Recent changes  
+			  Contact page  
+		 
+	 
+ 
+ 
+	 Tools 
+	 
+		 
+			  What links here  
+			  Related changes  
+			  Upload file  
+			  Special pages  
+			  Permanent link  
+			  Page information  
+			  Data item  
+  Cite this page  		 
+	 
+ 
+ 
+	 Print/export 
+	 
+		 
+			  Create a book  
+			  Download as PDF  
+			  Printable version  
+		 
+	 
+ 
+ 
+	 Languages 
+	 
+		 
+			  العربية  
+			  Azərbaycanca  
+			  Български  
+			  Català  
+			  Čeština  
+			  Dansk  
+			  Deutsch  
+			  Eesti  
+			  Ελληνικά  
+			  Español  
+			  Esperanto  
+			  فارسی  
+			  Français  
+			  한국어  
+			  हिन्दी  
+			  Hrvatski  
+			  Bahasa Indonesia  
+			  Italiano  
+			  עברית  
+			  Lietuvių  
+			  Magyar  
+			  മലയാളം  
+			  Nederlands  
+			  日本語  
+			  Norsk bokmål  
+			  Norsk nynorsk  
+			  Occitan  
+			  Polski  
+			  Português  
+			  Русский  
+			  Slovenčina  
+			  Српски / srpski  
+			  Suomi  
+			  Svenska  
+			  Türkçe  
+			  Українська  
+			  Vèneto  
+			  Yorùbá  
+			  中文  
+			    
+			  Edit links  
+		 
+	 
+ 
+			 
+		 
+		 
+							 
+											  This page was last modified on 29 March 2014 at 21:15.  
+											 Text is available under the  Creative Commons Attribution-ShareAlike License   ;
+additional terms may apply.  By using this site, you agree to the  Terms of Use  and  Privacy Policy.   
+Wikipedia® is a registered trademark of the  Wikimedia Foundation, Inc. , a non-profit organization. 
+									 
+							 
+											  Privacy policy  
+											  About Wikipedia  
+											  Disclaimers  
+											  Contact Wikipedia  
+											  Developers  
+											  Mobile view  
+									 
+										 
+					 
+						   
+					 
+					 
+						   
+					 
+				 
+						  
+		 
+		 /* */  if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+} 
+ if(window.mw){
+mw.loader.load(["ext.cite","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","skins.vector.collapsibleNav"],null,true);
+} 
+  
+ 
+	 
+ 

@@ -1,0 +1,26 @@
+                    dom4j - Introduction
+  SourceForge    dom4j  Last Published: 2010-04-05  | Version: 2.0.0-ALPHA-2 Jaxen | dom4j@SourceForge.net | dom4j 1.6.1 dom4j 2.0
+  •   Introduction 
+  •   Download 
+  •   JavaDoc 
+dom4j 1.x
+  •   Old homepage 
+  •   Download 
+  •   JavaDoc (1.6.1) 
+  •   JavaDoc (1.5.2) 
+  •   JavaDoc (1.4) 
+Project Documentation
+  •   Project Information 
+  •   Project Reports 
+  SourceForge.net    Maven  Welcome to dom4j 2.0!
+dom4j is an easy to use, open source library for working with XML, XPath and XSLT on the Java platform using the Java Collections Framework and with full support for DOM, SAX and JAXP. 
+Goals for version 2.0
+  •  compatible with Java 5
+  •  improve the utilization of new language constructs and classes from Java 5 - generics, concurency framework, enums etc.
+  •  clear code (methods marked as deprecated and specified to be removed in version 1.6 will be really removed)
+  •  finish missing documentation
+Planned 1.6.2 maitance release
+  •  compatible with Java 1.4 and older
+  •  no changes in source code
+  •  update dependencies to stable versions
+Copyright © 2001-2010. All Rights Reserved.     

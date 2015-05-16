@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 185">
+<div class="layoutArea">
+<div class="column">
+<ol style=" list-style-type: decimal;">
+<li style=" font-size: 10.000000pt; font-family: Palatino;">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The argument to </span><span style=" font-size: 10.000000pt; font-family: Courier;">getc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">should not be an expression with side effects, because it could be evaluated more than once.</span></p>
+</li>
+<li style=" font-size: 10.000000pt; font-family: Palatino;">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Since </span><span style=" font-size: 10.000000pt; font-family: Courier;">fgetc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">is guaranteed to be a function, we can take its address. This allows us to pass the address of </span><span style=" font-size: 10.000000pt; font-family: Courier;">fgetc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">as an argument to another function.</span></p>
+</li>
+<li style=" font-size: 10.000000pt; font-family: Palatino;">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Calls to </span><span style=" font-size: 10.000000pt; font-family: Courier;">fgetc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">probably take longer than calls to </span><span style=" font-size: 10.000000pt; font-family: Courier;">getc</span><span style=" font-size: 10.000000pt; font-family: Palatino;">, as it usually takes more time to call a function.</span></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<p> </p>
+</body>
+</html>

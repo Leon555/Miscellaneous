@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>private static Logger logger = Logger.getLogger(DBConnectionPool.class);</p>
+<p> </p>
+<p>logger.debug("");</p>
+<p>logger.error("");</p>
+<p> </p>
+<p>logger.debug("getConnection url = " + url);</p>
+<p>OUTPUT:</p>
+<p>[DEBUG] 2014-04-10 10:14:06 com.cisco.billing.utils.db.DBConnectionPool - getConnection url = jdbc:apache:commons:dbcp:/DEV/blis</p>
+</body>
+</html>

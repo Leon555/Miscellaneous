@@ -1,0 +1,211 @@
+Tue Apr 08 11:58:23 CST 2014 .. **********************************************
+Tue Apr 08 11:58:23 CST 2014 .. ==============================================
+Tue Apr 08 11:58:23 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Tue Apr 08 11:58:23 CST 2014 .. Client version 8008
+Tue Apr 08 11:58:24 CST 2014 .. Difference in seconds between local and remote clocks = 1
+Tue Apr 08 11:58:24 CST 2014 .. Downloading sync points from server
+Tue Apr 08 11:58:25 CST 2014 .. Brain is not present - forcing complete upload
+Tue Apr 08 11:58:25 CST 2014 .. Sync GUID = 8867CB60-AAEF-3F82-6423-8C0EC6EDBA07
+Tue Apr 08 11:58:25 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain
+Tue Apr 08 11:58:25 CST 2014 .. Never synced - using BrainZip
+Tue Apr 08 11:58:27 CST 2014 .. BrainZip created at C:\Users\weich2\AppData\Local\Temp\TheBrain\8867CB60-AAEF-3F82-6423-8C0EC6EDBA07.syncOut.brainzip
+Tue Apr 08 11:58:27 CST 2014 .. trueLastSyncTime:null
+Tue Apr 08 11:58:43 CST 2014 .. Received from server:
+==================
+
+==================
+Tue Apr 08 11:58:43 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload
+Thu Apr 10 09:10:23 CST 2014 .. **********************************************
+Thu Apr 10 09:10:23 CST 2014 .. ==============================================
+Thu Apr 10 09:10:23 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Thu Apr 10 09:10:23 CST 2014 .. Client version 8008
+Thu Apr 10 09:10:25 CST 2014 .. Difference in seconds between local and remote clocks = 3
+Thu Apr 10 09:10:25 CST 2014 .. Downloading sync points from server
+Thu Apr 10 09:10:26 CST 2014 .. Total sync points from server = 5
+Thu Apr 10 09:10:26 CST 2014 .. Most recent common sync point = 3FB9C84F-3464-2C49-6112-A8EAF0C625FB###2014-04-07 20:58:25.000 @-0700
+Thu Apr 10 09:10:26 CST 2014 .. Sync GUID = 78727DCC-3ABC-AA06-DF98-79555C8955AE
+Thu Apr 10 09:10:26 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\78727DCC-3ABC-AA06-DF98-79555C8955AE.syncOut
+Thu Apr 10 09:10:26 CST 2014 .. ==============================================
+Thu Apr 10 09:10:26 CST 2014 .. Starting sync Thu Apr 10 09:10:26 CST 2014
+Thu Apr 10 09:10:26 CST 2014 .. Syncing changes since: Apr 8, 2014 11:50 AM
+Thu Apr 10 09:10:26 CST 2014 .. Number of modified Thoughts since last sync: 1
+Thu Apr 10 09:10:26 CST 2014 .. Number of modified links since last sync: 0
+Thu Apr 10 09:10:26 CST 2014 .. Number of modified attachments since last sync: 0
+Thu Apr 10 09:10:26 CST 2014 .. Number of modified entrys since last sync: 1
+Thu Apr 10 09:10:26 CST 2014 .. Output XML for sync created (case 1) at C:\Users\weich2\AppData\Local\Temp\TheBrain\78727DCC-3ABC-AA06-DF98-79555C8955AE.syncOut\deltas.xml
+Thu Apr 10 09:10:26 CST 2014 .. Skipping unmodified thought icon file C:\Users\weich2\Dropbox\Documents\MindMaps\UNIX_brain\Files\991EC68C-A7B7-792F-F8C5-D9B773F5428B\TheBrainIcon.png
+Thu Apr 10 09:10:26 CST 2014 .. Copied 0 thought icons
+Thu Apr 10 09:10:26 CST 2014 .. Copied 0 notes folders
+Thu Apr 10 09:10:26 CST 2014 .. Copied 0 attachment files
+Thu Apr 10 09:10:26 CST 2014 .. Changes zipped to C:\Users\weich2\AppData\Local\Temp\TheBrain\78727DCC-3ABC-AA06-DF98-79555C8955AE.syncOut.zip
+Thu Apr 10 09:10:26 CST 2014 .. trueLastSyncTime:2014-04-08 11:58:25.263
+Thu Apr 10 09:10:27 CST 2014 .. Received from server:
+==================
+
+==================
+Thu Apr 10 09:10:27 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload
+Thu Apr 10 09:10:33 CST 2014 .. Status report from server: ready
+
+Thu Apr 10 09:10:33 CST 2014 .. Downloading from server to C:\Users\weich2\AppData\Local\Temp\TheBrain\78727DCC-3ABC-AA06-DF98-79555C8955AE.syncIn.zip
+Thu Apr 10 09:10:33 CST 2014 ..   hasMoreData = false; amountPreviouslyDownloaded = 839
+Thu Apr 10 09:10:33 CST 2014 .. COMPLETED 0 thoughts, 0 links, 0 entries, 0 attachments, 0 attributes.
+Thu Apr 10 09:10:33 CST 2014 .. Sync 78727DCC-3ABC-AA06-DF98-79555C8955AE completed successfully on client side
+Thu Apr 10 09:10:34 CST 2014 .. didServerCompleteSync - Server confirmed successful sync: OK: SyncPoints updated
+
+Thu Apr 10 09:10:34 CST 2014 .. Processing modification log. Size: 992
+Thu Apr 10 09:10:34 CST 2014 .. Finished processing modification log
+Thu Apr 10 09:10:34 CST 2014 .. Finished everything
+Thu Apr 10 09:10:34 CST 2014 .. ......................................
+Thu Apr 24 09:13:52 CST 2014 .. **********************************************
+Thu Apr 24 09:13:52 CST 2014 .. ==============================================
+Thu Apr 24 09:13:52 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Thu Apr 24 09:13:52 CST 2014 .. Client version 8008
+Thu Apr 24 09:13:53 CST 2014 .. Difference in seconds between local and remote clocks = 3
+Thu Apr 24 09:13:53 CST 2014 .. Downloading sync points from server
+Thu Apr 24 09:13:54 CST 2014 .. Total sync points from server = 8
+Thu Apr 24 09:13:54 CST 2014 .. Most recent common sync point = 78727DCC-3ABC-AA06-DF98-79555C8955AE###2014-04-09 18:10:26.000 @-0700
+Thu Apr 24 09:13:54 CST 2014 .. Sync GUID = 0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51
+Thu Apr 24 09:13:54 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51.syncOut
+Thu Apr 24 09:13:54 CST 2014 .. ==============================================
+Thu Apr 24 09:13:54 CST 2014 .. Starting sync Thu Apr 24 09:13:54 CST 2014
+Thu Apr 24 09:13:54 CST 2014 .. Syncing changes since: Apr 10, 2014 9:02 AM
+Thu Apr 24 09:13:54 CST 2014 .. Number of modified Thoughts since last sync: 83
+Thu Apr 24 09:13:54 CST 2014 .. Number of modified links since last sync: 176
+Thu Apr 24 09:13:54 CST 2014 .. Number of modified attachments since last sync: 9
+Thu Apr 24 09:13:54 CST 2014 .. Number of modified entrys since last sync: 57
+Thu Apr 24 09:13:54 CST 2014 .. Skipping the following attachments which exceed the maximum file size of 0 bytes: 39, 7, 42, 43, 40, 41, 46, 44, 45, 
+Thu Apr 24 09:13:54 CST 2014 .. Output XML for sync created (case 1) at C:\Users\weich2\AppData\Local\Temp\TheBrain\0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51.syncOut\deltas.xml
+Thu Apr 24 09:13:54 CST 2014 .. Skipping unmodified thought icon file C:\Users\weich2\Dropbox\Documents\MindMaps\UNIX_brain\Files\991EC68C-A7B7-792F-F8C5-D9B773F5428B\TheBrainIcon.png
+Thu Apr 24 09:13:54 CST 2014 .. Copied 0 thought icons
+Thu Apr 24 09:13:54 CST 2014 .. Copied 0 notes folders
+Thu Apr 24 09:13:54 CST 2014 .. Copied 0 attachment files
+Thu Apr 24 09:13:54 CST 2014 .. Changes zipped to C:\Users\weich2\AppData\Local\Temp\TheBrain\0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51.syncOut.zip
+Thu Apr 24 09:13:54 CST 2014 .. trueLastSyncTime:2014-04-10 09:10:26.093
+Thu Apr 24 09:13:56 CST 2014 .. Received from server:
+==================
+
+==================
+Thu Apr 24 09:13:56 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload
+Thu Apr 24 09:14:02 CST 2014 .. Status report from server: pending-processing: Currently being processed by the server
+
+Thu Apr 24 09:32:58 CST 2014 .. **********************************************
+Thu Apr 24 09:32:58 CST 2014 .. ==============================================
+Thu Apr 24 09:32:58 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Thu Apr 24 09:32:58 CST 2014 .. Client version 8008
+Thu Apr 24 09:33:00 CST 2014 .. Difference in seconds between local and remote clocks = 3
+Thu Apr 24 09:33:00 CST 2014 .. Downloading sync points from server
+Thu Apr 24 09:33:01 CST 2014 .. Total sync points from server = 8
+Thu Apr 24 09:33:01 CST 2014 .. Most recent common sync point = 78727DCC-3ABC-AA06-DF98-79555C8955AE###2014-04-09 18:10:26.000 @-0700
+Thu Apr 24 09:33:01 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain
+Thu Apr 24 09:33:01 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51.syncOut
+Thu Apr 24 09:33:01 CST 2014 .. Ignoring previously interrupted sync 0FA7165B-3BE1-A1B4-14AA-ADA5A137CA51 - export file could not be found
+Thu Apr 24 09:33:01 CST 2014 .. Sync GUID = F265B8D3-6137-036B-0D67-7ACEEB33CBB0
+Thu Apr 24 09:33:01 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\F265B8D3-6137-036B-0D67-7ACEEB33CBB0.syncOut
+Thu Apr 24 09:33:01 CST 2014 .. ==============================================
+Thu Apr 24 09:33:01 CST 2014 .. Starting sync Thu Apr 24 09:33:01 CST 2014
+Thu Apr 24 09:33:01 CST 2014 .. Syncing changes since: Apr 10, 2014 9:02 AM
+Thu Apr 24 09:33:01 CST 2014 .. Number of modified Thoughts since last sync: 83
+Thu Apr 24 09:33:01 CST 2014 .. Number of modified links since last sync: 176
+Thu Apr 24 09:33:01 CST 2014 .. Number of modified attachments since last sync: 9
+Thu Apr 24 09:33:01 CST 2014 .. Number of modified entrys since last sync: 58
+Thu Apr 24 09:33:01 CST 2014 .. Skipping the following attachments which exceed the maximum file size of 0 bytes: 39, 7, 42, 43, 40, 41, 46, 44, 45, 
+Thu Apr 24 09:33:01 CST 2014 .. Output XML for sync created (case 1) at C:\Users\weich2\AppData\Local\Temp\TheBrain\F265B8D3-6137-036B-0D67-7ACEEB33CBB0.syncOut\deltas.xml
+Thu Apr 24 09:33:01 CST 2014 .. Skipping unmodified thought icon file C:\Users\weich2\Dropbox\Documents\MindMaps\UNIX_brain\Files\991EC68C-A7B7-792F-F8C5-D9B773F5428B\TheBrainIcon.png
+Thu Apr 24 09:33:01 CST 2014 .. Copied 0 thought icons
+Thu Apr 24 09:33:01 CST 2014 .. Copied 0 notes folders
+Thu Apr 24 09:33:01 CST 2014 .. Copied 0 attachment files
+Thu Apr 24 09:33:01 CST 2014 .. Changes zipped to C:\Users\weich2\AppData\Local\Temp\TheBrain\F265B8D3-6137-036B-0D67-7ACEEB33CBB0.syncOut.zip
+Thu Apr 24 09:33:01 CST 2014 .. trueLastSyncTime:2014-04-10 09:10:26.093
+Thu Apr 24 09:33:03 CST 2014 .. Received from server:
+==================
+
+==================
+Thu Apr 24 09:33:03 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload
+Thu Apr 24 09:33:09 CST 2014 .. Status report from server: pending-processing: Currently being processed by the server
+
+Thu Apr 24 09:33:49 CST 2014 .. Status report from server: ready
+
+Thu Apr 24 09:33:49 CST 2014 .. Downloading from server to C:\Users\weich2\AppData\Local\Temp\TheBrain\F265B8D3-6137-036B-0D67-7ACEEB33CBB0.syncIn.zip
+Thu Apr 24 09:33:50 CST 2014 ..   hasMoreData = false; amountPreviouslyDownloaded = 9745
+Thu Apr 24 09:33:50 CST 2014 .. (T) Miscellaneous <41CD0283-E374-BB16-27F3-3F78DAEEABC8> unchanged.
+Thu Apr 24 09:33:50 CST 2014 .. (T) trick <F61E375A-B0C9-6A09-18CB-66414BC0AE13> unchanged.
+Thu Apr 24 09:33:50 CST 2014 .. (E) [unnamed] <CEE6883B-4C83-C572-EE14-8EA618EE0976> modified.
+Thu Apr 24 09:33:50 CST 2014 .. COMPLETED 0 thoughts, 0 links, 1 entries, 0 attachments, 0 attributes.
+Thu Apr 24 09:33:50 CST 2014 .. Sync F265B8D3-6137-036B-0D67-7ACEEB33CBB0 completed successfully on client side
+Thu Apr 24 09:33:51 CST 2014 .. didServerCompleteSync - Server confirmed successful sync: OK: SyncPoints updated
+
+Thu Apr 24 09:33:51 CST 2014 .. Processing modification log. Size: 3137
+Thu Apr 24 09:33:51 CST 2014 .. Finished processing modification log
+Thu Apr 24 09:33:51 CST 2014 .. Finished everything
+Thu Apr 24 09:33:51 CST 2014 .. ......................................
+Thu Apr 24 09:45:46 CST 2014 .. **********************************************
+Thu Apr 24 09:45:46 CST 2014 .. ==============================================
+Thu Apr 24 09:45:46 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Thu Apr 24 09:45:46 CST 2014 .. Client version 8008
+Thu Apr 24 09:45:47 CST 2014 .. Difference in seconds between local and remote clocks = 3
+Thu Apr 24 09:45:47 CST 2014 .. Downloading sync points from server
+Thu Apr 24 09:45:48 CST 2014 .. Total sync points from server = 9
+Thu Apr 24 09:45:48 CST 2014 .. Most recent common sync point = F265B8D3-6137-036B-0D67-7ACEEB33CBB0###2014-04-23 18:33:01.000 @-0700
+Thu Apr 24 09:45:48 CST 2014 .. Sync GUID = 177551F9-DF5C-03AF-578A-9DA856361125
+Thu Apr 24 09:45:48 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\177551F9-DF5C-03AF-578A-9DA856361125.syncOut
+Thu Apr 24 09:45:48 CST 2014 .. ==============================================
+Thu Apr 24 09:45:48 CST 2014 .. Starting sync Thu Apr 24 09:45:48 CST 2014
+Thu Apr 24 09:45:48 CST 2014 .. Syncing changes since: Apr 24, 2014 9:24 AM
+Thu Apr 24 09:45:48 CST 2014 .. Number of modified Thoughts since last sync: 0
+Thu Apr 24 09:45:48 CST 2014 .. Number of modified links since last sync: 0
+Thu Apr 24 09:45:48 CST 2014 .. Number of modified attachments since last sync: 0
+Thu Apr 24 09:45:48 CST 2014 .. Number of modified entrys since last sync: 1
+Thu Apr 24 09:45:48 CST 2014 .. Output XML for sync created (case 1) at C:\Users\weich2\AppData\Local\Temp\TheBrain\177551F9-DF5C-03AF-578A-9DA856361125.syncOut\deltas.xml
+Thu Apr 24 09:45:48 CST 2014 .. Copied 0 thought icons
+Thu Apr 24 09:45:48 CST 2014 .. Copied 0 notes folders
+Thu Apr 24 09:45:48 CST 2014 .. Copied 0 attachment files
+Thu Apr 24 09:45:48 CST 2014 .. Changes zipped to C:\Users\weich2\AppData\Local\Temp\TheBrain\177551F9-DF5C-03AF-578A-9DA856361125.syncOut.zip
+Thu Apr 24 09:45:48 CST 2014 .. trueLastSyncTime:2014-04-24 09:33:01.135
+Thu Apr 24 09:45:49 CST 2014 .. Received from server:
+==================
+
+==================
+Thu Apr 24 09:45:49 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload
+Thu Apr 24 09:45:55 CST 2014 .. Status report from server: ready
+
+Thu Apr 24 09:45:55 CST 2014 .. Downloading from server to C:\Users\weich2\AppData\Local\Temp\TheBrain\177551F9-DF5C-03AF-578A-9DA856361125.syncIn.zip
+Thu Apr 24 09:45:56 CST 2014 ..   hasMoreData = false; amountPreviouslyDownloaded = 1212
+Thu Apr 24 09:45:56 CST 2014 .. COMPLETED 0 thoughts, 0 links, 0 entries, 0 attachments, 0 attributes.
+Thu Apr 24 09:45:56 CST 2014 .. Sync 177551F9-DF5C-03AF-578A-9DA856361125 completed successfully on client side
+Thu Apr 24 09:45:57 CST 2014 .. didServerCompleteSync - Server confirmed successful sync: OK: SyncPoints updated
+
+Thu Apr 24 09:45:57 CST 2014 .. Processing modification log. Size: 992
+Thu Apr 24 09:45:57 CST 2014 .. Finished processing modification log
+Thu Apr 24 09:45:57 CST 2014 .. Finished everything
+Thu Apr 24 09:45:57 CST 2014 .. ......................................
+Thu May 29 16:34:43 CST 2014 .. **********************************************
+Thu May 29 16:34:43 CST 2014 .. ==============================================
+Thu May 29 16:34:43 CST 2014 .. Preparing to start sync - brain guid = DF05A39B-359F-8BC7-4C2D-D1F21B1A8951
+Thu May 29 16:34:43 CST 2014 .. Client version 8011
+Thu May 29 16:34:44 CST 2014 .. Difference in seconds between local and remote clocks = 3
+Thu May 29 16:34:44 CST 2014 .. Downloading sync points from server
+Thu May 29 16:34:45 CST 2014 .. Total sync points from server = 10
+Thu May 29 16:34:45 CST 2014 .. Most recent common sync point = 177551F9-DF5C-03AF-578A-9DA856361125###2014-04-23 18:45:48.000 @-0700
+Thu May 29 16:34:45 CST 2014 .. Sync GUID = BDC577A2-1C36-F9F9-A7E0-0A041ACDA544
+Thu May 29 16:34:45 CST 2014 .. Export Folder = C:\Users\weich2\AppData\Local\Temp\TheBrain\BDC577A2-1C36-F9F9-A7E0-0A041ACDA544.syncOut
+Thu May 29 16:34:45 CST 2014 .. ==============================================
+Thu May 29 16:34:45 CST 2014 .. Starting sync Thu May 29 16:34:45 CST 2014
+Thu May 29 16:34:45 CST 2014 .. Syncing changes since: Apr 24, 2014 9:37 AM
+Thu May 29 16:34:45 CST 2014 .. Number of modified Thoughts since last sync: 143
+Thu May 29 16:34:45 CST 2014 .. Number of modified links since last sync: 290
+Thu May 29 16:34:45 CST 2014 .. Number of modified attachments since last sync: 25
+Thu May 29 16:34:45 CST 2014 .. Number of modified entrys since last sync: 82
+Thu May 29 16:34:45 CST 2014 .. Skipping the following attachments which exceed the maximum file size of 0 bytes: 68, 69, 70, 71, 64, 65, 66, 67, 47, 51, 50, 49, 48, 55, 54, 53, 52, 59, 58, 57, 56, 63, 62, 61, 60, 
+Thu May 29 16:34:46 CST 2014 .. Output XML for sync created (case 1) at C:\Users\weich2\AppData\Local\Temp\TheBrain\BDC577A2-1C36-F9F9-A7E0-0A041ACDA544.syncOut\deltas.xml
+Thu May 29 16:34:46 CST 2014 .. Copying modified thought icon file C:\Users\weich2\Dropbox\Documents\MindMaps\UNIX_brain\Files\5A9DE4DF-09D9-D12B-24AD-5C64D7B406B4\TheBrainIcon.png
+Thu May 29 16:34:46 CST 2014 .. Skipping unmodified thought icon file C:\Users\weich2\Dropbox\Documents\MindMaps\UNIX_brain\Files\991EC68C-A7B7-792F-F8C5-D9B773F5428B\TheBrainIcon.png
+Thu May 29 16:34:46 CST 2014 .. Copied 1 thought icons
+Thu May 29 16:34:46 CST 2014 .. Copied 0 notes folders
+Thu May 29 16:34:46 CST 2014 .. Copied 0 attachment files
+Thu May 29 16:34:46 CST 2014 .. Changes zipped to C:\Users\weich2\AppData\Local\Temp\TheBrain\BDC577A2-1C36-F9F9-A7E0-0A041ACDA544.syncOut.zip
+Thu May 29 16:34:46 CST 2014 .. trueLastSyncTime:2014-04-24 09:45:48.66
+Thu May 29 16:34:50 CST 2014 .. Received from server:
+==================
+
+==================
+Thu May 29 16:34:50 CST 2014 .. Changes uploaded to https://webbrain.com/syncUpload

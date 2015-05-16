@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>int</p>
+<p>_getopt_internal (int argc, char *const *argv, const char *optstring,</p>
+<p> const struct option *longopts, int *longind, int long_only,</p>
+<p> int posixly_correct)</p>
+<p>{</p>
+<p> int result;</p>
+<p> </p>
+<p> getopt_data.optind = optind;</p>
+<p> getopt_data.opterr = opterr;</p>
+<p> </p>
+<p> result = _getopt_internal_r (argc, argv, optstring, longopts,</p>
+<p>      longind, long_only, &getopt_data,</p>
+<p>      posixly_correct);</p>
+<p> </p>
+<p> optind = getopt_data.optind;</p>
+<p> optarg = getopt_data.optarg;</p>
+<p> optopt = getopt_data.optopt;</p>
+<p> </p>
+<p> return result;</p>
+<p>}</p>
+</body>
+</html>

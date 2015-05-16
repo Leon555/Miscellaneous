@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>if (argc == 2</p>
+<p>     && (c = getopt_long (argc, argv, "+", long_options, NULL)) != -1)</p>
+<p>   {</p>
+<p>     switch (c)</p>
+<p>       {</p>
+<p>       case 'h':</p>
+<p>         (*usage_func) (EXIT_SUCCESS);</p>
+<p> </p>
+<p>       case 'v':</p>
+<p>         {</p>
+<p>           va_list authors;</p>
+<p>           va_start (authors, usage_func);</p>
+<p>           version_etc_va (stdout, command_name, package, version, authors);</p>
+<p>           exit (0);</p>
+<p>         }</p>
+<p> </p>
+<p>       default:</p>
+<p>         /* Don't process any other long-named options.  */</p>
+<p>         break;</p>
+<p>       }</p>
+<p>   }</p>
+</body>
+</html>

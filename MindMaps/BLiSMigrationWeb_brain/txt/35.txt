@@ -1,0 +1,166 @@
+                     DocumentHelper (dom4j 1.6.1 API) 
+	
+Overview 	Package 	  Class 	Use 	Tree 	Deprecated 	Index 	Help 	
+	
+  PREV CLASS   NEXT CLASS	FRAMES    NO FRAMES     All Classes 	
+ SUMMARY: NESTED | FIELD | CONSTR | METHOD	 DETAIL: FIELD | CONSTR | METHOD	
+ org.dom4j 
+ Class DocumentHelper
+
+java.lang.Object
+    extended by  org.dom4j.DocumentHelper
+public final class DocumentHelperextends Object 
+DocumentHelper is a collection of helper methods for using DOM4J. 
+
+Version: $Revision: 1.26 $ Author: James Strachan 
+
+Method Summary	
+static Attribute	createAttribute(Element owner, QName qname, String value) 
+            	
+static Attribute	createAttribute(Element owner, String name, String value) 
+            	
+static CDATA	createCDATA(String text) 
+            	
+static Comment	createComment(String text) 
+            	
+static Document	createDocument() 
+            	
+static Document	createDocument(Element rootElement) 
+            	
+static Element	createElement(QName qname) 
+            	
+static Element	createElement(String name) 
+            	
+static Entity	createEntity(String name, String text) 
+            	
+static Namespace	createNamespace(String prefix, String uri) 
+            	
+static Pattern	createPattern(String xpathPattern) 
+            createPattern parses the given XPath expression to create an XSLT style Patterninstance which can then be used in an XSLT processing model. 	
+static ProcessingInstruction	createProcessingInstruction(String pi, Map data) 
+            	
+static ProcessingInstruction	createProcessingInstruction(String pi, String d) 
+            	
+static QName	createQName(String localName) 
+            	
+static QName	createQName(String localName, Namespace namespace) 
+            	
+static Text	createText(String text) 
+            	
+static XPath	createXPath(String xpathExpression) 
+            createXPath parses an XPath expression and creates a new XPath XPath instance using the singleton DocumentFactory. 	
+static XPath	createXPath(String xpathExpression, org.jaxen.VariableContext context) 
+            createXPath parses an XPath expression and creates a new XPath XPath instance using the singleton DocumentFactory. 	
+static NodeFilter	createXPathFilter(String xpathFilterExpression) 
+            createXPathFilter parses a NodeFilter from the given XPath filter expression using the singleton DocumentFactory. 	
+static Element	makeElement(Branch source, String path) 
+            makeElement a helper method which navigates from the given Document or Element node to some Element using the path expression, creating any necessary elements along the way. 	
+static Document	parseText(String text) 
+            parseText parses the given text as an XML document and returns the newly created Document. 	
+static List	selectNodes(String xpathFilterExpression, List nodes) 
+            selectNodes performs the given XPath expression on the Listof Nodeinstances appending all the results together into a single list. 	
+static List	selectNodes(String xpathFilterExpression, Node node) 
+            selectNodes performs the given XPath expression on the Listof Nodeinstances appending all the results together into a single list. 	
+static void	sort(List list, String xpathExpression) 
+            sort sorts the given List of Nodes using an XPath expression as a Comparator. 	
+static void	sort(List list, String expression, boolean distinct) 
+            sort sorts the given List of Nodes using an XPath expression as a Comparatorand optionally removing duplicates. 	
+   Methods inherited from class java.lang.Object	
+clone, equals, finalize, getClass, hashCode, notify, notifyAll, toString, wait, wait, wait	
+   
+Method Detail	
+ createDocument
+
+public static Document createDocument()  createDocument
+
+public static Document createDocument(Element rootElement)  createElement
+
+public static Element createElement(QName qname)  createElement
+
+public static Element createElement(String name)  createAttribute
+
+public static Attribute createAttribute(Element owner,
+                                        QName qname,
+                                        String value)  createAttribute
+
+public static Attribute createAttribute(Element owner,
+                                        String name,
+                                        String value)  createCDATA
+
+public static CDATA createCDATA(String text)  createComment
+
+public static Comment createComment(String text)  createText
+
+public static Text createText(String text)  createEntity
+
+public static Entity createEntity(String name,
+                                  String text)  createNamespace
+
+public static Namespace createNamespace(String prefix,
+                                        String uri)  createProcessingInstruction
+
+public static ProcessingInstruction createProcessingInstruction(String pi,
+                                                                String d)  createProcessingInstruction
+
+public static ProcessingInstruction createProcessingInstruction(String pi,
+                                                                Map data)  createQName
+
+public static QName createQName(String localName,
+                                Namespace namespace)  createQName
+
+public static QName createQName(String localName)  createXPath
+
+public static XPath createXPath(String xpathExpression)
+                         throws InvalidXPathException createXPath parses an XPath expression and creates a new XPath XPath instance using the singleton DocumentFactory. 
+Parameters:xpathExpression - is the XPath expression to create Returns:a new XPath instance Throws: InvalidXPathException - if the XPath expression is invalid 
+ createXPath
+
+public static XPath createXPath(String xpathExpression,
+                                org.jaxen.VariableContext context)
+                         throws InvalidXPathException createXPath parses an XPath expression and creates a new XPath XPath instance using the singleton DocumentFactory. 
+Parameters:xpathExpression - is the XPath expression to createcontext - is the variable context to use when evaluating the XPath Returns:a new XPath instance Throws: InvalidXPathException - if the XPath expression is invalid 
+ createXPathFilter
+
+public static NodeFilter createXPathFilter(String xpathFilterExpression) createXPathFilter parses a NodeFilter from the given XPath filter expression using the singleton DocumentFactory. XPath filter expressions occur within XPath expressions such as self::node()[ filterExpression ] 
+Parameters:xpathFilterExpression - is the XPath filter expression to create Returns:a new NodeFilter instance 
+ createPattern
+
+public static Pattern createPattern(String xpathPattern) createPattern parses the given XPath expression to create an XSLT style Patterninstance which can then be used in an XSLT processing model. 
+Parameters:xpathPattern - is the XPath pattern expression to create Returns:a new Pattern instance 
+ selectNodes
+
+public static List selectNodes(String xpathFilterExpression,
+                               List nodes) selectNodes performs the given XPath expression on the Listof Nodeinstances appending all the results together into a single list. 
+Parameters:xpathFilterExpression - is the XPath filter expression to evaluatenodes - is the list of nodes on which to evalute the XPath Returns:the results of all the XPath evaluations as a single list 
+ selectNodes
+
+public static List selectNodes(String xpathFilterExpression,
+                               Node node) selectNodes performs the given XPath expression on the Listof Nodeinstances appending all the results together into a single list. 
+Parameters:xpathFilterExpression - is the XPath filter expression to evaluatenode - is the Node on which to evalute the XPath Returns:the results of all the XPath evaluations as a single list 
+ sort
+
+public static void sort(List list,
+                        String xpathExpression) sort sorts the given List of Nodes using an XPath expression as a Comparator. 
+Parameters:list - is the list of Nodes to sortxpathExpression - is the XPath expression used for comparison 
+ sort
+
+public static void sort(List list,
+                        String expression,
+                        boolean distinct) sort sorts the given List of Nodes using an XPath expression as a Comparatorand optionally removing duplicates. 
+Parameters:list - is the list of Nodes to sortexpression - is the XPath expression used for comparisondistinct - if true then duplicate values (using the sortXPath for comparisions) will be removed from the List 
+ parseText
+
+public static Document parseText(String text)
+                          throws DocumentException parseText parses the given text as an XML document and returns the newly created Document. 
+Parameters:text - the XML text to be parsed Returns:a newly parsed Document Throws: DocumentException - if the document could not be parsed 
+ makeElement
+
+public static Element makeElement(Branch source,
+                                  String path)  makeElement 
+ a helper method which navigates from the given Document or Element node to some Element using the path expression, creating any necessary elements along the way. For example the path a/b/c would get the first child <a> element, which would be created if it did not exist, then the next child <b> and so on until finally a <c> element is returned. Parameters:source - is the Element or Document to start navigating frompath - is a simple path expression, seperated by '/' which denotes the path from the source to the resulting element such as a/b/c Returns:the first Element on the given path which either already existed on the path or were created by this method. 
+	
+Overview 	Package 	  Class 	Use 	Tree 	Deprecated 	Index 	Help 	
+	
+  PREV CLASS   NEXT CLASS	FRAMES    NO FRAMES     All Classes 	
+ SUMMARY: NESTED | FIELD | CONSTR | METHOD	 DETAIL: FIELD | CONSTR | METHOD	
+ Copyright © 2001-2005 MetaStuff Ltd.. All Rights Reserved.    

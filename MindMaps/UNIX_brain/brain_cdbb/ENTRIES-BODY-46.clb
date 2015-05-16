@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 117">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Get the process ID or process group ID currently receiving the </span><span style=" font-size: 10.000000pt; font-family: Courier;">SIGIO </span><span style=" font-size: 10.000000pt; font-family: Palatino;">and </span><span style=" font-size: 10.000000pt; font-family: Courier;">SIGURG </span><span style=" font-size: 10.000000pt; font-family: Palatino;">signals. We describe these asynchronous I/O signals in Section 14.5.2.</span></p>
+</div>
+</div>
+</div>
+<p> </p>
+</body>
+</html>

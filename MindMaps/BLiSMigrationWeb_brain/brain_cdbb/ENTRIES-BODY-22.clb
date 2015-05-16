@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<ul>
+<li><span style=" font-size: medium;">a protocal specification for message exchange of structured information in the implementation of Web Services</span></li>
+<li><span style=" font-size: medium;">it relies on XML information set for its message format (successor of XML-RPC)</span></li>
+<li><span style=" font-size: medium;">it relies on HTTP/SMTP for message <b>negotiation</b> and <b>transmission</b>.</span></li>
+</ul>
+<p> </p>
+</body>
+</html>

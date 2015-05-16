@@ -1,0 +1,165 @@
+                     FreeMarker Manual 
+Bookmarks: Alpha. index, Glossary, Expressions, ?builtins, #directives, .spec_vars, FAQ, API, Home Next page: PrefacePrevious pageParent pageContents FreeMarker Manual 
+For FreeMarker 2.3.20 
+ Table of Contents    [Show detailed...] 
+  •   Preface 
+  •   I   Template Author's Guide 
+  •   1   Getting Started 
+  •   Template + data-model = output 
+  •   The data-model at a glance 
+  •   The template at a glance 
+  •   2   Values, Types 
+  •   Basics 
+  •   The types 
+  •   3   The Template 
+  •   Overall structure 
+  •   Directives 
+  •   Expressions 
+  •   Interpolations 
+  •   4   Miscellaneous 
+  •   Defining your own directives 
+  •   Defining variables in the template 
+  •   Namespaces 
+  •   White-space handling 
+  •   Alternative (square bracket) syntax 
+  •   II   Programmer's Guide 
+  •   1   Getting Started 
+  •   Create a configuration instance 
+  •   Create a data-model 
+  •   Get the template 
+  •   Merging the template with the data-model 
+  •   Putting all together 
+  •   2   The Data Model 
+  •   Basics 
+  •   Scalars 
+  •   Containers 
+  •   Methods 
+  •   Directives 
+  •   Node variables 
+  •   Object wrappers 
+  •   3   The Configuration 
+  •   Basics 
+  •   Shared variables 
+  •   Settings 
+  •   Template loading 
+  •   Error handling 
+  •   4   Miscellaneous 
+  •   Variables 
+  •   Charset issues 
+  •   Multithreading 
+  •   Bean wrapper 
+  •   Logging 
+  •   Using FreeMarker with servlets 
+  •   Configuring security policy for FreeMarker 
+  •   Legacy XML wrapper implementation 
+  •   Using FreeMarker with Ant 
+  •   Jython wrapper 
+  •   III   XML Processing Guide 
+  •   Preface 
+  •   1   Exposing XML documents 
+  •   The DOM tree 
+  •   Putting the XML into the data-model 
+  •   2   Imperative XML processing 
+  •   Learning by example 
+  •   Formal description 
+  •   3   Declarative XML Processing 
+  •   Basics 
+  •   Details 
+  •   IV   Reference 
+  •   1   Built-in Reference 
+  •   Alphabetical index 
+  •   Built-ins for strings 
+  •   Built-ins for numbers 
+  •   Built-ins for dates 
+  •   Built-ins for booleans 
+  •   Built-ins for sequences 
+  •   Built-ins for hashes 
+  •   Built-ins for nodes (for XML) 
+  •   Seldom used and expert built-ins 
+  •   2   Directive Reference 
+  •   Alphabetical index 
+  •   if, else, elseif 
+  •   switch, case, default, break 
+  •   list, break 
+  •   include 
+  •   import 
+  •   noparse 
+  •   compress 
+  •   escape, noescape 
+  •   assign 
+  •   global 
+  •   local 
+  •   setting 
+  •   User-defined directive (<@...>) 
+  •   macro, nested, return 
+  •   function, return 
+  •   flush 
+  •   stop 
+  •   ftl 
+  •   t, lt, rt 
+  •   nt 
+  •   attempt, recover 
+  •   visit, recurse, fallback 
+  •   3   Special Variable Reference 
+  •   4   Reserved names in FTL 
+  •   5   Deprecated FTL constructs 
+  •   List of deprecated directives 
+  •   List of deprecated built-ins 
+  •   Old-style macro and call directives 
+  •   Transform directive 
+  •   Old FTL syntax 
+  •   #{...}: Numerical interpolation 
+  •   V   Appendixes 
+  •   A   FAQ 
+  •   B   Installing FreeMarker 
+  •   C   Building FreeMarker 
+  •   D   Versions 
+  •   2.3.20 
+  •   2.3.19 
+  •   2.3.18 
+  •   2.3.17 
+  •   2.3.16 
+  •   2.3.15 
+  •   2.3.14 
+  •   2.3.13 
+  •   2.3.12 
+  •   2.3.11 
+  •   2.3.10 
+  •   2.3.9 
+  •   2.3.8 
+  •   2.3.7 
+  •   2.3.7 RC1 
+  •   2.3.6 
+  •   2.3.5 
+  •   2.3.4 
+  •   2.3.3 
+  •   2.3.2 
+  •   2.3.1 
+  •   2.3 
+  •   2.2.8 
+  •   2.2.7 
+  •   2.2.6 
+  •   2.2.5 
+  •   2.2.4 
+  •   2.2.3 
+  •   2.2.2 
+  •   2.2.1 
+  •   2.2 
+  •   2.1.5 
+  •   2.1.4 
+  •   2.1.3 
+  •   2.1.2 
+  •   2.1.1 
+  •   2.1 
+  •   2.01 
+  •   2.0 
+  •   2.0 RC3 
+  •   2.0 RC2 
+  •   2.0 RC1 
+  •   E   License 
+  •   Glossary 
+  •   Alphabetical Index 
+Next page: PrefacePrevious pageParent pageContents 	
+ FreeMarker Manual -- For FreeMarker 2.3.20 
+ HTML generated: 2013-06-27 20:54:33 GMT 	  Edited with XMLMind XML Editor  	
+  Here!      

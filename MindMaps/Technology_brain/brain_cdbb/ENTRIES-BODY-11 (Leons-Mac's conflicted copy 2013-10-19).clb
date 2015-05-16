@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="TheBrain 7.0.4.5" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>XPath is used in many XML technologies. It enables you to target specific elements or attributes (or the other building blocks you’ll meet in the next chapter). It works similar to how paths in a filesystem work, starting at the root and progressing through the various layers until the target is found. For example, with the appUsers.xml file, you may want to select all the users. The XPath for this would be:<br />
+/applicationUsers/user</p>
+<p> </p>
+<p>In addition to being used in XSLT, XPath is also used in XQuery, XML Schemas, and many other XML-related technologies. </p>
+</body>
+</html>

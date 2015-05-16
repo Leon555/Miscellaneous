@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 226">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<pre>
+<span style=" font-size: 9.000000pt; font-family: Courier;">#include <time.h></span>
+</pre>
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">size_t strftime(char *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">buf</span><span style=" font-size: 9.000000pt; font-family: Courier;">, size_t </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">maxsize</span><span style=" font-size: 9.000000pt; font-family: Courier;">, const char *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">format</span><span style=" font-size: 9.000000pt; font-family: Courier;">,</span></p>
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">const struct tm *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">tmptr</span><span style=" font-size: 9.000000pt; font-family: Courier;">);</span></p>
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">size_t strftime_l(char *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">buf</span><span style=" font-size: 9.000000pt; font-family: Courier;">, size_t </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">maxsize</span><span style=" font-size: 9.000000pt; font-family: Courier;">, const char *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">format</span><span style=" font-size: 9.000000pt; font-family: Courier;">,</span></p>
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">const struct tm *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">tmptr</span><span style=" font-size: 9.000000pt; font-family: Courier;">, locale_t </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">locale</span><span style=" font-size: 9.000000pt; font-family: Courier;">); </span><span style=" font-size: 9.000000pt; font-family: Palatino;">Both return: number of characters stored in array if room, 0 otherwise</span></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+</body>
+</html>

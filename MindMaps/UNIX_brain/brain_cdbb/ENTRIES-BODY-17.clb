@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: large;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p><span style=" font-size: medium;">#include <unistd.h></span></p>
+<p><span style=" font-size: medium;">long sysconf(int name);</span></p>
+<p><span style=" font-size: medium;">long pathconf(const char *pathname, int name); </span></p>
+<p><span style=" font-size: medium;">long fpathconf(int fd, int name);</span></p>
+<p><span style=" font-size: medium;">All three return: corresponding value if OK, −1 on error (see later)</span></p>
+<p><span style=" font-size: medium;"> </span></p>
+<p><span style=" font-size: medium;">Constants beginning with _SC_ are used as arguments to sysconf to identify the runtime limit. Figure 2.12 lists the name arguments that are used by pathconf and fpathconf to identify system limits. Constants beginning with _PC_ are used as arguments to pathconf and fpathconf to identify the runtime limit.</span></p>
+</body>
+</html>

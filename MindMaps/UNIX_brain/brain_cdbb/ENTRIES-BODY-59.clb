@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 136">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The </span><span style=" font-size: 10.000000pt; font-family: Courier;">access </span><span style=" font-size: 10.000000pt; font-family: Palatino;">and </span><span style=" font-size: 10.000000pt; font-family: Courier;">faccessat </span><span style=" font-size: 10.000000pt; font-family: Palatino;">functions base their tests on the real user and group IDs. (Replace </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">effective </span><span style=" font-size: 10.000000pt; font-family: Palatino;">with </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">real </span><span style=" font-size: 10.000000pt; font-family: Palatino;">in the four steps at the end of Section 4.5.)</span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">mode </span><span style=" font-size: 10.000000pt; font-family: Palatino;">is either the value </span><span style=" font-size: 10.000000pt; font-family: Courier;">F_OK </span><span style=" font-size: 10.000000pt; font-family: Palatino;">to test if a file exists, or the bitwise OR of any of the flags shown in Figure 4.7.</span></p>
+<p><span style=" font-size: 8.000000pt; font-family: Palatino; font-weight: 700;">Figure 4.7 </span><span style=" font-size: 8.000000pt; font-family: Palatino;">The </span><span style=" font-size: 8.000000pt; font-family: Palatino; font-style: italic;">mode </span><span style=" font-size: 8.000000pt; font-family: Palatino;">flags for </span><span style=" font-size: 8.000000pt; font-family: Courier;">access </span><span style=" font-size: 8.000000pt; font-family: Palatino;">function, from </span><span style=" font-size: 8.000000pt; font-family: Courier;"><unistd.h></span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The </span><span style=" font-size: 10.000000pt; font-family: Courier;">faccessat </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function behaves like </span><span style=" font-size: 10.000000pt; font-family: Courier;">access </span><span style=" font-size: 10.000000pt; font-family: Palatino;">when the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">pathname </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument is absolute or when the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">fd </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument has the value </span><span style=" font-size: 10.000000pt; font-family: Courier;">AT_FDCWD </span><span style=" font-size: 10.000000pt; font-family: Palatino;">and the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">pathname </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument is relative. Otherwise, </span><span style=" font-size: 10.000000pt; font-family: Courier;">faccessat </span><span style=" font-size: 10.000000pt; font-family: Palatino;">evaluates the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">pathname </span><span style=" font-size: 10.000000pt; font-family: Palatino;">relative to the open directory referenced by the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">fd </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument.</span></p>
+</div>
+</div>
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">#include <unistd.h><br />
+int access(const char *</span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">pathname</span><span style=" font-size: 9.000000pt; font-family: Courier;">, int </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">mode</span><span style=" font-size: 9.000000pt; font-family: Courier;">);<br />
+int faccessat(int </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">fd</span><span style=" font-size: 9.000000pt; font-family: Courier;">, const char *</span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">pathname</span><span style=" font-size: 9.000000pt; font-family: Courier;">, int </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">mode</span><span style=" font-size: 9.000000pt; font-family: Courier;">, int </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">flag</span><span style=" font-size: 9.000000pt; font-family: Courier;">);</span></p>
+<p><span style=" font-size: 9.000000pt; font-family: Palatino;">Both return: 0 if OK, </span><span style=" font-size: 9.000000pt; font-family: Symbol;">−</span><span style=" font-size: 9.000000pt; font-family: Palatino;">1 on error</span></p>
+</div>
+</div>
+</div>
+<table style=" border-collapse: collapse;">
+<col style=" width: 21.823621%;" />
+<col style=" width: 78.176379%;" />
+<tr>
+<td style=" border-style: solid; border-top-width: 0.319962pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319923pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319642pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319923pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino; font-style: italic;">mode</span></p>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 0.319962pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319923pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 2.319642pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319923pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">Description</span></p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style=" border-style: solid; border-top-width: 2.319642pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319923pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319923pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319923pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<pre>
+<span style=" font-size: 8.000000pt; font-family: Courier;">R_OK
+W_OK
+X_OK</span>
+</pre>
+</div>
+</div>
+</td>
+<td style=" border-style: solid; border-top-width: 2.319642pt; border-top-color: rgb(0.000000%, 0.000000%, 0.000000%); border-right-width: 0.319923pt; border-right-color: rgb(0.000000%, 0.000000%, 0.000000%); border-bottom-width: 0.319923pt; border-bottom-color: rgb(0.000000%, 0.000000%, 0.000000%); border-left-width: 0.319923pt; border-left-color: rgb(0.000000%, 0.000000%, 0.000000%);">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 8.000000pt; font-family: Palatino;">test for read permission test for write permission test for execute permission</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p> </p>
+</body>
+</html>

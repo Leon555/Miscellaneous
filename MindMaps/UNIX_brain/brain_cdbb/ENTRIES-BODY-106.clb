@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 205">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">#include <stdio.h><br />
+FILE *fmemopen(void *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">buf</span><span style=" font-size: 9.000000pt; font-family: Courier;">, size_t </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">size</span><span style=" font-size: 9.000000pt; font-family: Courier;">,</span></p>
+<p><span style=" font-size: 9.000000pt; font-family: Courier;">const char *restrict </span><span style=" font-size: 9.000000pt; font-family: Palatino; font-style: italic;">type</span><span style=" font-size: 9.000000pt; font-family: Courier;">);<br />
+</span><span style=" font-size: 9.000000pt; font-family: Palatino;">Returns: stream pointer if OK, </span><span style=" font-size: 9.000000pt; font-family: Courier;">NULL </span><span style=" font-size: 9.000000pt; font-family: Palatino;">on error</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 205">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The </span><span style=" font-size: 10.000000pt; font-family: Courier;">fmemopen </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function allows the caller to provide a buffer to be used for the memory stream: the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">buf </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument points to the beginning of the buffer and the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">size </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument specifies the size of the buffer in bytes. If the </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">buf </span><span style=" font-size: 10.000000pt; font-family: Palatino;">argument is null, then the </span><span style=" font-size: 10.000000pt; font-family: Courier;">fmemopen </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function allocates a buffer of </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">size </span><span style=" font-size: 10.000000pt; font-family: Palatino;">bytes. In this case, the buffer will be freed when the stream is closed.</span></p>
+</div>
+</div>
+</div>
+<p> </p>
+</body>
+</html>

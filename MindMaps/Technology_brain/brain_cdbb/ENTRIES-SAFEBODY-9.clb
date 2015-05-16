@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+
+<p>Both document type defi nitions (DTDs) and XML Schemas serve to describe the defi nition of an XML document, its structure, and what data is allowed where. They can then be used to test whether a document that has been received is consistent with the prescribed format, a process known as validation. DTDs are the older standard and have been around since SGML. They are gradually succumbing to XML Schemas but are still in widespread use particularly with (X)HTML. They also have a few features that XML lacks, such as the ability to create entity declarations and the ability to add default attribute content.</p>
+
+

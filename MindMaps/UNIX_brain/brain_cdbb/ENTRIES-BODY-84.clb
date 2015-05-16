@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: "Adobe Caslon Pro";  font-size: medium;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<div class="page" title="Page 179">
+<div class="layoutArea">
+<div class="column">
+<ol style=" list-style-type: decimal;">
+<li style=" font-size: 10.000000pt; font-family: Palatino;">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Fully buffered. In this case, actual I/O takes place when the standard I/O buffer is filled. Files residing on disk are normally fully buffered by the standard I/O library. The buffer used is usually obtained by one of the standard I/O functions calling </span><span style=" font-size: 10.000000pt; font-family: Courier;">malloc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">(Section 7.8) the first time I/O is performed on a stream.</span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The term </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">flush </span><span style=" font-size: 10.000000pt; font-family: Palatino;">describes the writing of a standard I/O buffer. A buffer can be flushed automatically by the standard I/O routines, such as when a buffer fills, or we can call the function </span><span style=" font-size: 10.000000pt; font-family: Courier;">fflush </span><span style=" font-size: 10.000000pt; font-family: Palatino;">to flush a stream. Unfortunately, in the UNIX environment, </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">flush </span><span style=" font-size: 10.000000pt; font-family: Palatino;">means two different things. In terms of the standard I/O library, it means writing out the contents of a buffer, which may be partially filled. In terms of the terminal driver, such as the </span><span style=" font-size: 10.000000pt; font-family: Courier;">tcflush </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function in Chapter 18, it means to discard the data that’s already stored in a buffer.</span></p>
+</li>
+<li style=" font-size: 10.000000pt; font-family: Palatino;">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Line buffered. In this case, the standard I/O library performs I/O when a newline character is encountered on input or output. This allows us to output a single character at a time (with the standard I/O </span><span style=" font-size: 10.000000pt; font-family: Courier;">fputc </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function), knowing that actual I/O will take place only when we finish writing each line. Line buffering is typically used on a stream when it refers to a terminal—standard input and standard output, for example.</span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">Line buffering comes with two caveats. First, the size of the buffer that the standard I/O library uses to collect each line is fixed, so I/O might take place if we fill this buffer before writing a newline. Second, whenever input is requested through the standard I/O library from either (a) an unbuffered stream</span></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="page" title="Page 180">
+<div class="layoutArea">
+<div class="column">
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">or (b) a line-buffered stream (that requires data to be requested from the kernel), </span><span style=" font-size: 10.000000pt; font-family: Palatino; font-style: italic;">all </span><span style=" font-size: 10.000000pt; font-family: Palatino;">line-buffered output streams are flushed. The reason for the qualifier on (b) is that the requested data may already be in the buffer, which doesn’t require data to be read from the kernel. Obviously, any input from an unbuffered stream, item (a), requires data to be obtained from the kernel.</span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">3. Unbuffered. The standard I/O library does not buffer the characters. If we write 15 characters with the standard I/O </span><span style=" font-size: 10.000000pt; font-family: Courier;">fputs </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function, for example, we expect these 15 characters to be output as soon as possible, probably with the </span><span style=" font-size: 10.000000pt; font-family: Courier;">write </span><span style=" font-size: 10.000000pt; font-family: Palatino;">function from Section 3.8.</span></p>
+<p><span style=" font-size: 10.000000pt; font-family: Palatino;">The standard error stream, for example, is normally unbuffered so that any error messages are displayed as quickly as possible, regardless of whether they contain a newline.</span></p>
+</div>
+</div>
+</div>
+<p> </p>
+</body>
+</html>

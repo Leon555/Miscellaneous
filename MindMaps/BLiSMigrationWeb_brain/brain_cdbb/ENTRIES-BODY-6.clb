@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>public String[] split(String regex)</p>
+<p>Splits this string around matches of the given regular expression.</p>
+<p>This method works as if by invoking the two-argument split method with the given expression and a limit argument of zero. Trailing empty strings are therefore not included in the resulting array.</p>
+<p> </p>
+<p>The string "boo:and:foo", for example, yields the following results with these expressions:</p>
+<p> </p>
+<p>Regex Result</p>
+<p>: { "boo", "and", "foo" }</p>
+<p>o { "b", "", ":and:f" }</p>
+<p> </p>
+<p>Parameters:</p>
+<p>regex - the delimiting regular expression</p>
+</body>
+</html>

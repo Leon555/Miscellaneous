@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="TheBrain 7.0.4.5" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p><a href="http://maven.apache.org/download.cgi">http://maven.apache.org/download.cgi</a></p>
+<p>&#160;</p>
+<p>Unix-based OS</p>
+<ul>
+<li>directory: /usr/local/apache-maven/apache-maven-3.1.1</li>
+<li>Environment Variables:</li>
+</ul>
+<p>&#160;&#160;&#160;&#160; &#160;&#160;&#160; &#160;&#160;&#160; export M2_HOME=/usr/local/apache-maven/apache-maven-3.1.1</p>
+<p>&#160;&#160;&#160;&#160; &#160;&#160;&#160; &#160;&#160;&#160; export M2=$M2_HOME/bin</p>
+<p>&#160;&#160;&#160;&#160; &#160;&#160;&#160; &#160;&#160;&#160; export PATH=$M2:$PATH</p>
+<ul>
+<li>confirm the installations: $ mvn --version</li>
+</ul>
+</body>
+</html>

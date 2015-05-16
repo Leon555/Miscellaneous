@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="TheBrain 7.0.4.5" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>XML Namespaces were added to the XML specification sometime after the initial recommendation. They have a reputation for being difficult to understand and also for being poorly implemented. Basically, namespaces serve as a way of grouping XML.</p>
+<p> </p>
+<p>xmlns:name</p>
+<p> </p>
+<p>The XSLT Namespace URI is http://www.w3.org/1999/XSL/Transform and is most commonly bound to the xsl or xslt prefix.</p>
+<p>with a URI of http://www.w3.org/2001/XMLSchema</p>
+<p> </p>
+</body>
+</html>

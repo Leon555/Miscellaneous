@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Helvetica;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>getopt1.c</p>
+<p>getopt.c</p>
+<p style=" margin-left: 20.0px;">char *optarg;</p>
+<p style=" margin-left: 20.0px;">int optind = 1;</p>
+<p style=" margin-left: 20.0px;">int opterr = 1;</p>
+<p style=" margin-left: 20.0px;">int optopt = '?';</p>
+<p> </p>
+<p>struct option</p>
+<p>{</p>
+<p> const char *name;</p>
+<p> /* has_arg can't be an enum because some compilers complain about</p>
+<p>    type mismatches in all the code that assumes it is an int.  */</p>
+<p> int has_arg;</p>
+<p> int *flag;</p>
+<p> int val;</p>
+<p>};</p>
+</body>
+</html>

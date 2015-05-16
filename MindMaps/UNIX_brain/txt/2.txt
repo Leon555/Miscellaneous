@@ -1,0 +1,710 @@
+ 
+ 
+ 
+ 
+ Single UNIX Specification - Wikipedia, the free encyclopedia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */ 
+
+  
+ if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Single_UNIX_Specification","wgTitle":"Single UNIX Specification","wgCurRevisionId":602776259,"wgRevisionId":602776259,"wgArticleId":29540,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from August 2012","All articles with unsourced statements","Articles with unsourced statements from November 2008","Articles with unsourced statements from December 2011","Articles using fixed number of columns in reflist","POSIX","IEEE standards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Single_UNIX_Specification","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.23wmf20/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q635130"});
+}  if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-enable-experimental":0,"visualeditor-betatempdisable":0,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":
+false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,
+"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f91b7921db835befbf3c85fee027f8c0 */
+} 
+ if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","skins.vector.compactPersonalBar.defaultTracking","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","wikibase.client.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} 
+   body{behavior:url("/w/static-1.23wmf20/skins/vector/csshover.min.htc")}   
+ 
+		  
+		  
+		 
+			  
+			  
+						   
+						  Single UNIX Specification  
+						 
+								 From Wikipedia, the free encyclopedia 
+								  
+												 
+					Jump to:					 navigation , 					 search 
+				 
+				  The  Single UNIX Specification  ( SUS ) is the collective name of a family of standards for  computer   operating systems  to qualify for the name " Unix ". The core specifications of the SUS are developed and maintained by the  Austin Group , which is a joint working group of  IEEE , ISO JTC 1 SC22 and  The Open Group . 
+  
+ 
+ 
+ Contents 
+ 
+ 
+   1   History  
+ 
+   1.1   1980s: Motivation   
+   1.2   1988: POSIX   
+   1.3   1990s: Spec 1170   
+   1.4   1997: Single UNIX Specification version 2   
+   1.5   2001: POSIX:2001, Single UNIX Specification version 3   
+   1.6   2004: POSIX:2004   
+   1.7   2008: POSIX:2008   
+ 
+ 
+   2   Specification   
+   3   Marks for compliant systems   
+   4   Compliance  
+ 
+   4.1   Registered UNIX systems  
+ 
+   4.1.1   AIX   
+   4.1.2   HP-UX   
+   4.1.3   OS X   
+   4.1.4   Reliant UNIX   
+   4.1.5   SCO   
+   4.1.6   Solaris   
+   4.1.7   Tru64 UNIX   
+   4.1.8   z/OS   
+   4.1.9   Other   
+ 
+ 
+   4.2   Non-registered Unix-like systems  
+ 
+   4.2.1   BSD descendants   
+   4.2.2   Linux   
+ 
+ 
+ 
+ 
+   5   See also   
+   6   Notes   
+   7   References   
+   8   External links   
+ 
+ 
+  
+  History   [  edit  ]   
+ 
+    
+ 
+     
+Chronological hierarchy of relationships of various UNIX API standards that ultimately gave rise to SUSv4. Solid lines indicate direct descent, whereas dashed lines indicate a case where either 1) one standard influenced another 2) one standard was incorporated into another, or 3) one standard deferred to another. 
+ 
+ 
+  1980s: Motivation   [  edit  ]   
+ The SUS emerged from a mid-1980s project to standardize  operating system   interfaces  for software designed for variants of the Unix operating system. The need for standardization arose because enterprises using computers wanted to be able to develop programs that could be used on the computer systems of different manufacturers without reimplementing the programs. Unix was selected as the basis for a standard system interface partly because it was manufacturer-neutral. 
+  1988: POSIX   [  edit  ]   
+ In 1988, these standards became  IEEE 1003  (also registered as   ISO / IEC  9945 ), or   POSIX  , which loosely stands for  Portable Operating System Interface for uniX . 
+  1990s: Spec 1170   [  edit  ]   
+ In the early 1990s, a separate effort known as the Common API Specification or Spec 1170 was initiated by several major vendors, who formed the  COSE  alliance in the wake of the  Unix wars . This specification became more popular because it was available at no cost, whereas the IEEE charged a substantial fee for access to the POSIX specification. Management over these specifications was assigned to  X/Open  who also received the  Unix  trademark from  Novell  in 1993.  Unix International  (UI) merged into  Open Software Foundation  (OSF) in 1994 only to merge with X/Open to form  The Open Group  in 1996. 
+  1997: Single UNIX Specification version 2   [  edit  ]   
+ In 1997, the Open Group released the  Single UNIX Specification Version 2 .   [ 1 ]      [ 2 ]    
+ This specification consisted of: 
+ 
+ the Base Definitions, Issue 5, 
+ the System Interfaces and Headers, Issue 5, 
+ the Commands and Utilities, Issue 5, 
+ the Networking Services, Issue 5, 
+ the X/Open Curses, Issue 4, Version 2, 
+ 
+ and was at the core of the UNIX 98 brand.   [ 3 ]    
+  2001: POSIX:2001, Single UNIX Specification version 3   [  edit  ]   
+ Beginning in 1998, a joint  working group  known as the  Austin Group  began to develop the combined standard that would be known as the  Single UNIX Specification Version 3  and as  POSIX:2001  (formally: IEEE Std 1003.1-2001). It was released on January 30, 2002.   [ 4 ]    
+ This standard consisted of: 
+ 
+ the Base Definitions, Issue 6, 
+ the System Interfaces and Headers, Issue 6, 
+ the Commands and Utilities, Issue 6, 
+ 
+ and is at the core of the UNIX 03 brand.   [ 5 ]    
+  2004: POSIX:2004   [  edit  ]   
+ In 2004, a new edition of the POSIX:2001 standard was released, incorporating two technical corrigenda. It is called  POSIX:2004  (formally: IEEE Std 1003.1-2004).   [ 6 ]      [ 7 ]    
+  2008: POSIX:2008   [  edit  ]   
+ In December 2008, the  Austin Group  published a new major revision, known as  POSIX:2008  (formally: IEEE Std 1003.1-2008).   [ 8 ]      [ 9 ]      [ 10 ]    This is the core of the Single UNIX Specification, Version 4.   [ 11 ]    
+ This standard consists of: 
+ 
+ the Base Definitions, Issue 7, 
+ the System Interfaces and Headers, Issue 7, 
+ the Commands and Utilities, Issue 7. 
+ 
+  Specification   [  edit  ]   
+ SUSv3 totals some 3700 pages, which are thematically divided into four main parts: 
+ 
+  Base Definitions (XBD)  - a list of definitions and conventions used in the specifications and a list of  C  header files which must be provided by compliant systems. 84 header files in total are provided. 
+  Shell and Utilities (XCU)  - a list of utilities and a description of the shell,  sh . 160 utilities in total are specified. 
+  System Interfaces (XSH)  - contains the specification of various functions which are implemented as  system calls  or  library  functions. 1123 system interfaces in total are specified. 
+  Rationale (XRAT)  - the explanation behind the standard. 
+ 
+ The standard user command line and scripting interface is the  POSIX  shell, an extension of the  Bourne Shell  based on an early version of the  Korn Shell . Other user-level programs, services and utilities include  awk ,  echo ,  ed ,  vi , and hundreds of others. Required program-level services include basic  I/O  ( file ,  terminal , and  network ) services. A test suite accompanies the standard. It is called  PCTS  or the  POSIX Certification Test Suite . 
+ Additionally, SUS includes  CURSES  (XCURSES) specification, which specifies 372 functions and 3 header files. All in all, SUSv3 specifies 1742 interfaces. 
+ Note that a system need not include  source code  derived in any way from AT&T Unix to meet the specification. For instance,  IBM   OS/390 , now  z/OS , qualifies as a "Unix" despite having no code in common. [   citation needed   ]  
+  Marks for compliant systems   [  edit  ]   
+ There are two official marks for conforming systems 
+ 
+ UNIX 98 - the mark for systems conforming to version 2 of the SUS (partial compliance) 
+ UNIX 03 - the mark for systems conforming to version 3 of the SUS (full compliance) 
+ 
+ Older UNIX standards (superseded) 
+ 
+ UNIX 93 (completely superseded) 
+ UNIX 95 (compliance still acceptable for some simpler software subsystems) 
+ 
+  Compliance   [  edit  ]   
+  Registered UNIX systems   [  edit  ]   
+  AIX   [  edit  ]   
+  AIX  5L V5.2 with some updates, AIX 5L V5.3 and AIX 6.1, are registered as UNIX 03 compliant. AIX 5L V5.2 is registered as UNIX 98 compliant. 
+  HP-UX   [  edit  ]   
+  HP-UX  11i V3 Release B.11.31 is registered as UNIX 03 compliant. Previous releases are registered as UNIX 95. 
+  OS X   [  edit  ]   
+  Apple 's  OS X  is a UNIX 03 registered product,   [ 12 ]    first becoming registered with  Mac OS X v10.5  "Leopard" on October 26, 2007 (when run on Intel processors).   [ 13 ]      [ 14 ]    
+  Reliant UNIX   [  edit  ]   
+ The last  Reliant UNIX  versions were registered as UNIX 95 compliant (XPG4 hard branding). 
+  SCO   [  edit  ]   
+  UnixWare  7.1.3 is registered as UNIX 95 compliant.  SCO OpenServer  5 is registered as UNIX 93 compliant. 
+  Solaris   [  edit  ]   
+ Solaris 11 complies with the Single UNIX Specification.   [ 15 ]     Solaris  10 is registered as UNIX 03 compliant on  32-bit  and  64-bit   x86  ( X86-64 ) and  SPARC  systems. Solaris 8 and 9 are registered as UNIX 98 compliant on  32-bit   x86  and  SPARC  systems; 64-bit x86 systems are not supported. 
+ Solaris 2.5.1 was also registered as UNIX 95 compliant on the  PReP   PowerPC  platform in 1996, but the product was withdrawn before more than a few dozen copies had been sold.   [ 16 ]    
+  Tru64 UNIX   [  edit  ]   
+  Tru64 UNIX  V5.1A and later are registered as UNIX 98 compliant. 
+  z/OS   [  edit  ]   
+ IBM  z/OS  1.2 and higher is registered as UNIX 95 compliant. z/OS 1.9, released on September 28, 2007, and subsequent releases "better align" with UNIX 03.   [ 17 ]    
+  Other   [  edit  ]   
+ Other operating systems registered as UNIX 95 or UNIX 93 compliant: 
+ 
+  NCR  UNIX SVR4 
+  NEC  UX/4800 
+  SGI   IRIX  6.5   [ 18 ]    
+ 
+  Non-registered Unix-like systems   [  edit  ]   
+ Vendors of  Unix-like  systems such as  Linux  and  FreeBSD  do not typically certify their distributions, as the cost of certification and the rapidly changing nature of such distributions make the process too expensive to sustain.   [ 19 ]    
+  BSD descendants   [  edit  ]   
+ 
+ FreeBSD has a "C99 and POSIX Conformance Project"   [ 20 ]    which aims for full compliance with a large subset of the SUS. 
+ 
+ 
+  Darwin  is an open source operating system: it is essentially the open source subset of Mac OS X. Darwin is compliant with the SUS 03.   [ 21 ]    
+ 
+  Linux   [  edit  ]   
+ Linux aims to be compliant, but as certification is expensive, no Linux distribution has been registered as SUS compliant.   [ 22 ]    
+ The  Linux Standard Base  was formed in 2001 as an attempt to standardize the internal structures of Linux-based systems for increased compatibility. It is based on, and also extends in several areas, the POSIX specifications, the Single UNIX Specification and other open standards. It is  de facto  accepted and followed by many  Linux distributions . [   citation needed   ]  
+  See also   [  edit  ]   
+ 
+  Unix wars  
+  Functional specification  
+  UNIX manual  
+  Open system (computing)  
+  Open standard  
+  POSIX  
+ 
+  Notes   [  edit  ]   
+ 
+  Andrew Josey (2004-10-28).   Single UNIX Specification Frequently Asked Questions  . 1.9.   -   
+ 
+  References   [  edit  ]   
+ 
+ 
+    ^      http://www.opengroup.org/onlinepubs/7990989775/   
+    ^       "The Open Group Announces Enhanced Single UNIX Specification"  (Press release). The Open Group. March 12, 1997 . Retrieved 2009-07-26 .   -    
+    ^      http://www.opengroup.org/openbrand/register/xxm0.htm   
+    ^       "The Open Group announces completion of the joint revision to POSIX and the Single UNIX Specification"  (Press release). The Open Group. January 30, 2002 . Retrieved 2009-07-26 .   -    
+    ^      http://www.opengroup.org/openbrand/register/xym0.htm   
+    ^      http://www.opengroup.org/onlinepubs/009695399/   
+    ^       "IEEE Std 1003.1, 2004 Edition"  . Retrieved 2009-07-26 .   -    
+    ^      http://www.opengroup.org/onlinepubs/9699919799/   
+    ^       "Base Specifications, Issue 7" . The Open Group . Retrieved 2009-07-26 .   -    
+    ^       "The Austin Common Standards Revision Group" . The Open Group . Retrieved 2009-07-26 .   -    
+    ^      Single UNIX Specification Version 4   
+    ^      http://images.apple.com/macosx/docs/OSX_for_UNIX_Users_TB_July2011.pdf   
+    ^       "Mac OS X Leopard - Technology - UNIX" .  Leopard Technology Overview . Apple Inc. Archived from  the original  on 2007-08-23 . Retrieved 2007-06-11 . "Leopard is now an Open Brand UNIX 03 Registered Product, conforming to the SUSv3 and POSIX 1003.1 specifications for the C API, Shell Utilities, and Threads."   -    
+    ^      The Open Group.  "Mac OS X Version 10.5 Leopard on Intel-based Macintosh computers certification"  . Retrieved 2007-06-12 .   -    
+    ^      Solaris 11   
+    ^      Solaris 2.5.1   
+    ^       "Preview: IBM z/OS V1.9 advanced infrastructure solutions for your business needs"  (PDF). IBM. February 6, 2007. pp.-4, 15 . Retrieved 2007-06-11 .   -    
+    ^      The Open Group.  "Register of Certified Products"  . Retrieved 2009-12-20 .   -    
+    ^       "The Open Brand Fee Schedule" . The Open Group . Retrieved 2007-05-11 .   -   Lists fees required to use UNIX brand  
+    ^      http://www.freebsd.org/projects/c99/   
+    ^      http://developer.apple.com/documentation/Darwin/Reference/Manpages/man5/compat.5.html   
+    ^     p. 7, Linux System Programming: Talking Directly to the Kernel and C Library  
+ 
+ 
+  External links   [  edit  ]   
+ 
+ About:  The Single UNIX Specification  
+ Single UNIX Specifications:
+ 
+  Text of the Single UNIX Specification, version 2  
+  Text of the Single UNIX Specification, version 3 (= POSIX:2001), 2004 edition  
+  Text of POSIX:2008  
+  Single UNIX® Specification, Version 4, 2013 Edition  
+ 
+ 
+  The Portable Application Standards Committee  
+  Register of products certified for the UNIX and other Open Group brands  
+  Unix-Wars  (Living Internet) 
+  Unix Standards  ( Eric S. Raymond ,   The Art of Unix Programming  ) 
+  AIX Commands, Tools, Scripts and Explanations  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   v   
+   t   
+   e   
+ 
+ 
+ Standards by  The Open Group  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  ARM  
+  CDE  
+  CLI  
+  CMPI  
+  DCE  
+  DRDA  
+  LDAP  
+  Motif  
+  SUS  ( POSIX ) 
+  X11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   v   
+   t   
+   e   
+ 
+ 
+  IEEE standards  
+ 
+ 
+ 
+  
+ 
+ 
+ Current 
+ 
+ 
+ 
+  488  
+  754 
+ 
+  Revision  
+ 
+ 
+  854  
+  829  
+  830  
+  896  
+  1003  
+  1014  
+  1016  
+  1076  
+  1149.1  
+  1154  
+  1164  
+  1219  
+  1233  
+  1275  
+  1278  
+  1284  
+  1355  
+  1364  
+  1394  
+  1451  
+  1471  
+  1497  
+  1516  
+  1541  
+  1547  
+  1584  
+  1588  
+  1596  
+  1603  
+  1613  
+  1666  
+  1667  
+  1675  
+  1685  
+  1800  
+  1801  
+  1815  
+  1850  
+  1900  
+  1901  
+  1902  
+  1904  
+  1905  
+  11073  
+  12207  
+  2030  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  802 series  
+ 
+  
+ 
+ 
+ 
+  802.1  
+ 
+ 
+ 
+ 
+  D  
+  p  
+  Q  
+  Qat  
+  Qay  
+  w  
+  X  
+  ab  
+  ad  
+  AE  
+  ag  
+  ah  
+  ak  
+  aq  
+  ax  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  802.11  
+ 
+ 
+ 
+ 
+  a  
+  b  
+  c  
+  d  
+  e  
+  f  
+  g  
+  h  
+  i  
+  j  
+  k  
+  n  
+  p  
+  r  
+  s  
+  u  
+  v  
+  w  
+  y  
+  ac  
+  ad  
+  af  
+  ah  
+  ai  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .2  
+  .3  
+  .4  
+  .5  
+  .6  
+  .7  
+  .8  
+  .9  
+  .10  
+  .12  
+  .14  
+  .15 
+ 
+  .1  
+  .4  
+  .4a  
+ 
+ 
+  .16 
+ 
+  d · e  
+ 
+ 
+  .17  
+  .18  
+  .20  
+  .21  
+  .22  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ Proposed 
+ 
+ 
+ 
+  P1363  
+  P1619  
+  P1699  
+  P1823  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ Superseded 
+ 
+ 
+ 
+  754-1985  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  See also  
+  IEEE Standards Association  
+  Category:IEEE standards  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+    								 
+				Retrieved from " http://en.wikipedia.org/w/index.php?title=Single_UNIX_Specification&oldid=602776259 "				 
+												   Categories :    POSIX    IEEE standards     Hidden categories:    Use mdy dates from August 2012    All articles with unsourced statements    Articles with unsourced statements from November 2008    Articles with unsourced statements from December 2011    Articles using fixed number of columns in reflist     												  
+							 
+		 
+		 
+			 Navigation menu 
+			 
+				 
+	 Personal tools 
+	 
+  Create account    Log in  	 
+ 
+				 
+					 
+	 Namespaces 
+	 
+					   Article   
+					   Talk   
+			 
+ 
+ 
+	 
+		 
+	  Variants    
+	 
+		 
+					 
+	 
+ 
+				 
+				 
+					 
+	 Views 
+	 
+					   Read   
+					   Edit   
+					   View history   
+			 
+ 
+ 
+	  Actions    
+	 
+		 
+					 
+	 
+ 
+ 
+	  Search  
+	 
+					 
+					    		 
+	 
+ 
+				 
+			 
+			 
+					    
+				 
+	 Navigation 
+	 
+		 
+			  Main page  
+			  Contents  
+			  Featured content  
+			  Current events  
+			  Random article  
+			  Donate to Wikipedia  
+			  Wikimedia Shop  
+		 
+	 
+ 
+ 
+	 Interaction 
+	 
+		 
+			  Help  
+			  About Wikipedia  
+			  Community portal  
+			  Recent changes  
+			  Contact page  
+		 
+	 
+ 
+ 
+	 Tools 
+	 
+		 
+			  What links here  
+			  Related changes  
+			  Upload file  
+			  Special pages  
+			  Permanent link  
+			  Page information  
+			  Data item  
+  Cite this page  		 
+	 
+ 
+ 
+	 Print/export 
+	 
+		 
+			  Create a book  
+			  Download as PDF  
+			  Printable version  
+		 
+	 
+ 
+ 
+	 Languages 
+	 
+		 
+			  العربية  
+			  Čeština  
+			  Deutsch  
+			  Español  
+			  Français  
+			  한국어  
+			  Italiano  
+			  日本語  
+			  Polski  
+			  Português  
+			  Русский  
+			  Slovenčina  
+			  Українська  
+			  中文  
+			    
+			  Edit links  
+		 
+	 
+ 
+			 
+		 
+		 
+							 
+											  This page was last modified on 4 April 2014 at 20:51.  
+											 Text is available under the  Creative Commons Attribution-ShareAlike License   ;
+additional terms may apply.  By using this site, you agree to the  Terms of Use  and  Privacy Policy.   
+Wikipedia® is a registered trademark of the  Wikimedia Foundation, Inc. , a non-profit organization. 
+									 
+							 
+											  Privacy policy  
+											  About Wikipedia  
+											  Disclaimers  
+											  Contact Wikipedia  
+											  Developers  
+											  Mobile view  
+									 
+										 
+					 
+						   
+					 
+					 
+						   
+					 
+				 
+						  
+		 
+		 /* */  if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+} 
+ if(window.mw){
+mw.loader.load(["ext.cite","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","skins.vector.collapsibleNav"],null,true);
+} 
+  
+ 
+	 
+ 
